@@ -22,11 +22,14 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+from dotenv import load_dotenv
+import os
 
+# Load the .env file
+load_dotenv()
 # Supabase client setup
-url = "https://kanjqnmhpughrhjizmcp.supabase.co"
-key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imthbmpxbm1ocHVnaHJoaml6bWNwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTIxMzUyMDEsImV4cCI6MjA2NzcxMTIwMX0.z0Vp-oBJVlHsUVQaftkoicbgc-jgKsl9ZmjG_CRxrEo"
-
+url =  os.getenv('SUPABASE_URL')
+key =  os.getenv('SUPABASE_KEY')
 SUPABASE: AsyncClient = None
 df = []
 
