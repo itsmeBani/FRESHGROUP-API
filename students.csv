@@ -1,0 +1,2001 @@
+﻿Lastname,Firstname,FamilyIncome,TypeofSeniorHighSchool,ProgramEnrolled,MunicipalityOfOrigin,Grade12GWA,Sex
+Gonzales,Maria,99890,Public,Literature,Cervantes,95.22,Male
+Gonzales,Maria,86022,Private,Engineering,Batac,99.88,Male
+Flores,Ana,86903,Public,History,Tagudin,85.95,Female
+Mendoza,Jose,80421,Private,Sociology,Tagudin,85.67,Female
+Cruz,Miguel,59975,Public,Economics,Vigan,96.96,Female
+Santos,Ana,89763,Private,Psychology,Tagudin,98.3,Male
+Santos,Maria,48178,Public,Finance,Santa,90.18,Female
+Reyes,Maria,35774,Private,Biology,Laoag,89.75,Male
+Torres,Luisa,52962,Public,History,Vigan,88.34,Male
+Reyes,Jose,79986,Private,Finance,Batac,98.13,Male
+Mendoza,Elena,97407,Public,Economics,Baguio,92.27,Male
+Flores,Pedro,67477,Private,Accountancy,Narvacan,86.97,Female
+Santos,Rosa,83080,Public,Engineering,Santa,96.49,Female
+Cruz,Ana,56117,Private,History,Cervantes,93.73,Female
+Lopez,Maria,36967,Public,Literature,Santa,88.83,Female
+Reyes,Ana,57167,Private,Sociology,Santa,92.75,Male
+Lopez,Elena,99460,Public,Computer Science,Narvacan,86.75,Male
+Reyes,Carlos,36971,Private,Psychology,Batac,96.49,Female
+Garcia,Pedro,48192,Public,Psychology,Cervantes,90.36,Male
+Torres,Rosa,96498,Private,Psychology,Baguio,97.27,Female
+Gonzales,Rosa,30200,Public,Literature,Batac,88.36,Male
+Rivera,Miguel,97862,Private,Accountancy,Candon,96.3,Female
+Cruz,Pedro,88314,Public,Sociology,Batac,92.06,Female
+Lopez,Ana,67654,Private,Sociology,Laoag,86.31,Male
+Flores,Miguel,99573,Public,Sociology,Narvacan,94.05,Female
+Mendoza,Pedro,54752,Private,Literature,San Fernando,91.42,Female
+Cruz,Ana,68742,Public,Literature,Candon,85.13,Female
+Gonzales,Carlos,41125,Private,Sociology,Tagudin,91.12,Female
+Flores,Maria,45670,Public,Literature,Santa,97.5,Female
+Garcia,Jose,74075,Private,Biology,Narvacan,97.63,Male
+Rivera,Elena,89818,Public,Computer Science,Baguio,87.65,Male
+Mendoza,Jose,82454,Private,Finance,Candon,97.05,Female
+Torres,Juan,64269,Public,Psychology,Santa,91.89,Male
+Santos,Luisa,36375,Private,History,Cervantes,96.47,Male
+Gonzales,Maria,38137,Public,Psychology,Narvacan,97.26,Female
+Gonzales,Luisa,54196,Private,Engineering,Narvacan,86.67,Male
+Flores,Maria,80401,Public,Finance,Santa,92,Male
+Santos,Jose,41250,Private,Accountancy,Candon,86.35,Female
+Reyes,Miguel,75623,Public,Literature,Tagudin,93.58,Female
+Garcia,Juan,59607,Private,Accountancy,Baguio,86.68,Male
+Rivera,Jose,62615,Public,Accountancy,Batac,98.77,Female
+Flores,Pedro,77948,Private,History,Vigan,86.34,Female
+Mendoza,Pedro,86260,Public,Sociology,San Fernando,92.06,Female
+Garcia,Carlos,51862,Private,Accountancy,Santa,92.61,Male
+Garcia,Luisa,68139,Public,Psychology,Laoag,93.42,Female
+Reyes,Carlos,86066,Private,Finance,Candon,92.97,Female
+Mendoza,Pedro,61094,Public,Engineering,Baguio,94.41,Male
+Torres,Ana,37910,Private,Sociology,Candon,88.11,Female
+Torres,Rosa,47624,Public,History,Narvacan,93.33,Female
+Cruz,Elena,97565,Private,Accountancy,San Fernando,92.59,Female
+Rivera,Miguel,95799,Public,Sociology,Cervantes,85.05,Female
+Flores,Miguel,63626,Private,Sociology,Santa,92.61,Male
+Reyes,Luisa,91746,Public,History,Tagudin,95.27,Female
+Santos,Carlos,45626,Private,Finance,Candon,85.43,Male
+Flores,Luisa,55853,Public,History,Laoag,96.47,Male
+Rivera,Juan,49971,Private,Biology,Narvacan,89.64,Male
+Mendoza,Maria,46355,Public,Engineering,Santa,92.01,Male
+Flores,Pedro,76851,Private,Economics,Baguio,86.27,Female
+Reyes,Ana,55243,Public,Literature,Baguio,87.02,Male
+Flores,Ana,37366,Private,Psychology,Baguio,95.42,Male
+Santos,Maria,91367,Public,Engineering,Laoag,92.43,Female
+Torres,Juan,66564,Private,Engineering,Narvacan,94.83,Female
+Flores,Rosa,81481,Public,Psychology,Batac,97.01,Female
+Lopez,Luisa,53161,Private,Sociology,Santa,97.14,Male
+Gonzales,Elena,59611,Public,Sociology,Tagudin,97.03,Female
+Rivera,Ana,68085,Private,Finance,Narvacan,94.63,Male
+Lopez,Ana,84942,Public,Computer Science,Laoag,85.61,Female
+Rivera,Rosa,65107,Private,Accountancy,Narvacan,88.65,Male
+Cruz,Ana,45527,Public,Accountancy,Candon,97.97,Female
+Torres,Elena,45039,Private,Literature,Laoag,97.18,Female
+Cruz,Juan,30354,Public,Biology,Cervantes,92.34,Female
+Gonzales,Pedro,77240,Private,Accountancy,Baguio,94.39,Female
+Cruz,Luisa,39297,Public,Sociology,Candon,95.29,Male
+Flores,Miguel,56534,Private,Engineering,Cervantes,86.74,Male
+Mendoza,Rosa,89104,Public,Literature,Tagudin,93.75,Female
+Flores,Elena,77675,Private,Computer Science,Candon,88.98,Male
+Lopez,Luisa,54739,Public,Computer Science,Narvacan,94.89,Female
+Rivera,Ana,91629,Private,Finance,Narvacan,99.28,Male
+Cruz,Carlos,95485,Public,Economics,Batac,93.38,Male
+Santos,Ana,85821,Private,Psychology,Vigan,90.05,Male
+Mendoza,Pedro,45593,Public,Biology,Laoag,88.64,Female
+Gonzales,Ana,64279,Private,Engineering,Batac,95.23,Female
+Reyes,Elena,40737,Public,Engineering,Batac,97.5,Male
+Mendoza,Ana,74665,Private,Psychology,Santa,89.94,Female
+Flores,Ana,51943,Public,Engineering,Laoag,85.21,Female
+Mendoza,Carlos,85450,Private,Sociology,San Fernando,86.43,Male
+Mendoza,Pedro,69602,Public,Economics,Santa,86.28,Male
+Santos,Luisa,81640,Private,Biology,Laoag,96.62,Female
+Lopez,Elena,82769,Public,Economics,Cervantes,91.47,Female
+Torres,Miguel,69418,Private,Biology,San Fernando,98.69,Female
+Gonzales,Carlos,77086,Public,Biology,Vigan,93.79,Male
+Reyes,Jose,55300,Private,Literature,San Fernando,99.19,Male
+Rivera,Jose,63409,Public,Finance,Batac,86.65,Female
+Rivera,Jose,90022,Private,Computer Science,Santa,87.13,Female
+Lopez,Pedro,30882,Public,History,Batac,86.1,Female
+Mendoza,Pedro,84563,Private,Engineering,Santa,97.33,Female
+Gonzales,Pedro,99998,Public,Computer Science,Santa,99.6,Female
+Reyes,Carlos,69029,Private,Economics,Tagudin,86.22,Female
+Rivera,Rosa,30875,Public,Finance,Cervantes,91.18,Female
+Gonzales,Carlos,55708,Private,Literature,Batac,95.64,Male
+Mendoza,Maria,81627,Public,Finance,San Fernando,88.67,Female
+Rivera,Pedro,79531,Private,Biology,Narvacan,91.1,Male
+Santos,Miguel,72603,Public,Sociology,Vigan,91.17,Male
+Torres,Jose,43287,Private,Economics,Narvacan,93.89,Male
+Santos,Luisa,31219,Public,Psychology,Cervantes,88.54,Male
+Flores,Jose,98538,Private,Accountancy,Narvacan,97.27,Female
+Santos,Maria,47688,Public,Engineering,Batac,98.39,Female
+Reyes,Jose,49861,Private,Psychology,Baguio,90.2,Male
+Cruz,Carlos,34657,Public,Economics,Tagudin,96.24,Female
+Cruz,Elena,84610,Private,Computer Science,Narvacan,88.24,Female
+Mendoza,Elena,91876,Public,Sociology,Narvacan,99.55,Female
+Rivera,Elena,90830,Private,Biology,San Fernando,94.36,Male
+Mendoza,Ana,38521,Public,Sociology,Narvacan,94.17,Male
+Reyes,Carlos,88567,Private,Sociology,Narvacan,91.53,Female
+Santos,Rosa,63098,Public,Computer Science,Laoag,90.06,Female
+Torres,Miguel,99391,Private,Economics,Candon,96.04,Male
+Reyes,Elena,44657,Public,Computer Science,Cervantes,88,Female
+Torres,Rosa,80721,Private,Sociology,Candon,86.31,Female
+Flores,Ana,65231,Public,Literature,Laoag,88.01,Male
+Rivera,Pedro,31641,Private,Economics,Narvacan,96.83,Female
+Torres,Miguel,71624,Public,Engineering,Baguio,92.72,Female
+Garcia,Ana,54542,Private,Biology,Cervantes,96.04,Female
+Mendoza,Jose,34388,Public,Finance,Santa,97.48,Male
+Cruz,Luisa,89899,Private,History,Tagudin,97.99,Female
+Lopez,Pedro,89772,Public,Engineering,Cervantes,90.49,Male
+Reyes,Carlos,59707,Private,Psychology,Vigan,99.82,Male
+Rivera,Jose,84950,Public,Finance,Candon,87.68,Female
+Lopez,Ana,91868,Private,Sociology,Narvacan,93.79,Female
+Flores,Jose,76899,Public,Literature,Baguio,95.3,Male
+Santos,Miguel,96213,Private,Biology,Narvacan,86.74,Male
+Rivera,Maria,38479,Public,Psychology,Tagudin,94.3,Male
+Gonzales,Juan,70476,Private,Engineering,Vigan,95.21,Female
+Garcia,Luisa,39389,Public,Literature,Baguio,92.5,Male
+Santos,Pedro,78079,Private,Economics,Tagudin,86.68,Male
+Lopez,Pedro,84539,Public,Finance,Batac,97.37,Female
+Santos,Luisa,74196,Private,History,Laoag,85.87,Male
+Gonzales,Elena,61108,Public,Literature,Tagudin,88.99,Male
+Cruz,Elena,70492,Private,Sociology,Vigan,92.35,Female
+Cruz,Ana,69539,Public,History,Santa,88.37,Female
+Rivera,Ana,67518,Private,Economics,Batac,93.13,Male
+Flores,Miguel,53566,Public,Economics,Vigan,93.74,Male
+Mendoza,Miguel,88320,Private,Engineering,Candon,86.16,Female
+Gonzales,Maria,30116,Public,Economics,San Fernando,99.1,Female
+Garcia,Elena,87065,Private,Finance,Batac,99.18,Male
+Lopez,Maria,69364,Public,Engineering,Laoag,86.18,Male
+Santos,Carlos,80305,Private,Biology,Narvacan,90.94,Male
+Rivera,Luisa,97325,Public,Computer Science,Vigan,89.14,Female
+Flores,Luisa,80536,Private,Computer Science,Laoag,94.22,Male
+Cruz,Jose,64614,Public,Psychology,Batac,93.09,Male
+Cruz,Jose,45996,Private,History,Vigan,97.29,Female
+Torres,Jose,81946,Public,Accountancy,Narvacan,87.85,Female
+Cruz,Luisa,72036,Private,Engineering,Vigan,93.46,Male
+Reyes,Pedro,81958,Public,Finance,Batac,87,Male
+Santos,Maria,61066,Private,Literature,Batac,90.52,Female
+Reyes,Miguel,57051,Public,Engineering,Baguio,90.06,Female
+Torres,Luisa,81600,Private,Computer Science,San Fernando,94.37,Male
+Torres,Juan,64467,Public,Accountancy,Narvacan,91.54,Female
+Lopez,Maria,81772,Private,Psychology,Cervantes,98.8,Female
+Torres,Luisa,79132,Public,Computer Science,Baguio,92.17,Male
+Garcia,Miguel,61544,Private,Psychology,Candon,88.92,Male
+Garcia,Rosa,87374,Public,Engineering,Santa,85.32,Male
+Mendoza,Elena,48261,Private,Economics,Laoag,94.27,Female
+Cruz,Luisa,76134,Public,Accountancy,Baguio,96.78,Female
+Garcia,Jose,83632,Private,Computer Science,Narvacan,92.45,Male
+Mendoza,Miguel,94265,Public,Accountancy,Laoag,95.68,Female
+Gonzales,Miguel,71890,Private,Sociology,Santa,99.39,Male
+Santos,Jose,53555,Public,Computer Science,Candon,96.12,Female
+Flores,Jose,94633,Private,Economics,Laoag,92.88,Male
+Reyes,Miguel,56650,Public,Biology,Santa,99.69,Male
+Flores,Ana,92641,Private,Literature,Vigan,93.22,Female
+Lopez,Pedro,77643,Public,Accountancy,Baguio,86.55,Male
+Garcia,Juan,37256,Private,Finance,Candon,95.8,Female
+Cruz,Pedro,72589,Public,History,Batac,97.64,Female
+Lopez,Elena,55441,Private,Computer Science,San Fernando,85.13,Male
+Mendoza,Maria,65537,Public,Sociology,Baguio,85.72,Male
+Flores,Ana,64989,Private,Computer Science,Tagudin,85.05,Female
+Mendoza,Juan,34267,Public,History,Cervantes,92.81,Female
+Reyes,Rosa,97665,Private,Sociology,Narvacan,94.59,Male
+Garcia,Juan,89437,Public,Accountancy,Baguio,89.46,Female
+Gonzales,Carlos,85232,Private,Accountancy,Baguio,98.69,Female
+Reyes,Maria,43571,Public,Accountancy,Tagudin,96.12,Male
+Flores,Ana,73839,Private,History,Batac,96.32,Male
+Lopez,Maria,56028,Public,Sociology,Cervantes,88.4,Female
+Lopez,Ana,38105,Private,History,Candon,97.57,Male
+Mendoza,Carlos,62279,Public,Literature,Santa,94.55,Male
+Reyes,Juan,93522,Private,Biology,Batac,96.51,Male
+Flores,Miguel,60203,Public,Finance,San Fernando,88.12,Male
+Lopez,Maria,70662,Private,Finance,Narvacan,91.64,Male
+Torres,Elena,91743,Public,Engineering,Santa,92.58,Male
+Lopez,Maria,69421,Private,Computer Science,Baguio,85.44,Male
+Reyes,Elena,68987,Public,Psychology,Santa,95.53,Female
+Flores,Maria,57230,Private,Accountancy,Baguio,94.93,Male
+Mendoza,Elena,69235,Public,History,Batac,86.79,Male
+Gonzales,Pedro,33909,Private,Biology,Tagudin,94.63,Female
+Gonzales,Miguel,70191,Public,Computer Science,Vigan,99.08,Female
+Reyes,Ana,34383,Private,Literature,Tagudin,94.63,Male
+Torres,Jose,97758,Public,Accountancy,Baguio,92.95,Female
+Garcia,Rosa,48862,Private,History,Narvacan,87.49,Female
+Gonzales,Pedro,70907,Public,Accountancy,Batac,98.29,Male
+Garcia,Maria,45163,Private,Psychology,Vigan,87.69,Female
+Cruz,Luisa,96822,Public,Accountancy,Vigan,85.9,Male
+Flores,Ana,77281,Private,Literature,Laoag,89.81,Male
+Rivera,Jose,34907,Public,Accountancy,San Fernando,90.12,Male
+Lopez,Rosa,44253,Private,Engineering,Narvacan,95.25,Male
+Reyes,Ana,63169,Public,Economics,Laoag,89.25,Female
+Torres,Carlos,52977,Private,Engineering,Vigan,97.77,Male
+Santos,Elena,53055,Public,Engineering,San Fernando,89.39,Female
+Mendoza,Juan,87051,Private,Accountancy,Cervantes,89.19,Female
+Santos,Rosa,53952,Public,History,Vigan,85.75,Female
+Reyes,Luisa,44944,Private,History,Narvacan,96.38,Male
+Reyes,Miguel,45227,Public,Engineering,Laoag,97.86,Male
+Garcia,Pedro,38320,Private,Psychology,Laoag,99.22,Female
+Mendoza,Luisa,48938,Public,Engineering,Santa,92.29,Male
+Cruz,Carlos,67567,Private,Finance,Narvacan,95.07,Female
+Cruz,Pedro,97256,Public,Literature,Batac,97.43,Female
+Flores,Maria,77489,Private,Accountancy,Baguio,88.69,Male
+Reyes,Juan,68806,Public,Accountancy,Baguio,96.07,Female
+Santos,Miguel,67826,Private,Computer Science,Candon,99.41,Female
+Flores,Luisa,87433,Public,Computer Science,Tagudin,88.2,Female
+Lopez,Elena,72493,Private,Biology,Narvacan,97.87,Female
+Gonzales,Jose,74487,Public,Computer Science,Santa,89.06,Female
+Santos,Pedro,93426,Private,Economics,Vigan,99.68,Male
+Santos,Pedro,49325,Public,Finance,Santa,88.76,Female
+Garcia,Miguel,92269,Private,Literature,Laoag,97.1,Female
+Rivera,Ana,30046,Public,Sociology,Tagudin,90.22,Female
+Gonzales,Juan,34610,Private,Literature,Santa,99.55,Male
+Cruz,Pedro,52849,Public,Economics,Santa,89.81,Male
+Garcia,Luisa,74578,Private,Literature,Candon,93.49,Female
+Cruz,Maria,31585,Public,Accountancy,Cervantes,88.71,Female
+Flores,Maria,99003,Private,Computer Science,Batac,98.45,Female
+Cruz,Rosa,32656,Public,History,Narvacan,91.52,Female
+Flores,Elena,52136,Private,Psychology,Tagudin,86.3,Female
+Cruz,Maria,73710,Public,Engineering,Tagudin,87.8,Female
+Mendoza,Carlos,62855,Private,Accountancy,Santa,87.85,Female
+Cruz,Rosa,54940,Public,History,Santa,88.28,Female
+Cruz,Jose,45114,Private,History,Candon,88.76,Female
+Flores,Elena,98649,Public,Accountancy,San Fernando,88.86,Male
+Rivera,Miguel,48921,Private,Economics,Baguio,94.19,Male
+Garcia,Jose,97330,Public,Economics,Santa,87.29,Male
+Lopez,Rosa,78266,Private,Engineering,San Fernando,89.05,Male
+Cruz,Rosa,64352,Public,Sociology,Vigan,87.36,Female
+Lopez,Maria,68513,Private,Literature,Santa,86.55,Female
+Garcia,Miguel,83745,Public,Sociology,San Fernando,98.32,Female
+Lopez,Jose,66944,Private,Literature,Candon,88.86,Female
+Gonzales,Pedro,90183,Public,Literature,Candon,93.36,Male
+Lopez,Pedro,46735,Private,History,Cervantes,90.06,Male
+Torres,Jose,75268,Public,Literature,San Fernando,97.05,Male
+Mendoza,Elena,93567,Private,Psychology,Santa,97.55,Male
+Mendoza,Luisa,36433,Public,Finance,San Fernando,86.91,Female
+Torres,Juan,36800,Private,Sociology,Santa,93.67,Female
+Torres,Carlos,53836,Public,Economics,Laoag,92.25,Male
+Santos,Juan,92450,Private,Finance,Cervantes,93.66,Female
+Santos,Pedro,99549,Public,Finance,Vigan,90.39,Male
+Mendoza,Elena,77398,Private,Biology,Laoag,89.44,Female
+Torres,Ana,87218,Public,Literature,Vigan,96.24,Female
+Santos,Elena,54752,Private,Economics,Laoag,93.21,Male
+Santos,Carlos,84877,Public,Accountancy,Laoag,96.81,Female
+Garcia,Ana,41768,Private,Biology,Batac,94.52,Female
+Reyes,Rosa,93075,Public,Biology,Vigan,89.86,Male
+Cruz,Luisa,46389,Private,History,Santa,99.45,Female
+Flores,Carlos,66253,Public,Computer Science,Santa,99.68,Female
+Mendoza,Rosa,31433,Private,History,San Fernando,91.95,Female
+Torres,Juan,69413,Public,History,Santa,86.95,Male
+Santos,Maria,51692,Private,History,Santa,97.83,Female
+Cruz,Juan,32716,Public,Finance,Candon,95.15,Female
+Reyes,Jose,88412,Private,History,Santa,98.27,Female
+Garcia,Carlos,39389,Public,Psychology,Laoag,94.75,Male
+Lopez,Juan,42281,Private,Psychology,Candon,97.93,Female
+Torres,Elena,38916,Public,Sociology,Santa,87.98,Female
+Rivera,Rosa,61093,Private,Economics,San Fernando,92.95,Male
+Garcia,Miguel,34976,Public,Economics,San Fernando,95.82,Female
+Santos,Pedro,51141,Private,Computer Science,Batac,88.4,Male
+Reyes,Maria,86748,Public,Literature,Candon,85.52,Female
+Gonzales,Juan,64158,Private,Psychology,Batac,92.28,Male
+Santos,Ana,41789,Public,Computer Science,San Fernando,89.86,Female
+Gonzales,Rosa,44785,Private,Psychology,Baguio,94.8,Female
+Gonzales,Ana,45755,Public,Economics,Santa,95.9,Female
+Reyes,Pedro,93264,Private,Literature,Laoag,89.57,Male
+Santos,Pedro,89634,Public,Psychology,Tagudin,97.23,Male
+Lopez,Ana,89819,Private,Sociology,Vigan,91.16,Male
+Reyes,Pedro,49298,Public,Biology,Santa,96.89,Female
+Reyes,Jose,90880,Private,Accountancy,Batac,88.86,Female
+Cruz,Elena,87880,Public,Literature,Baguio,92.76,Male
+Reyes,Elena,64868,Private,History,Batac,98.19,Female
+Lopez,Jose,43426,Public,Finance,Santa,92.65,Female
+Gonzales,Jose,59080,Private,Literature,Tagudin,97.25,Male
+Rivera,Ana,35792,Public,Finance,Baguio,98.81,Female
+Rivera,Miguel,83019,Private,Economics,Santa,97.31,Male
+Lopez,Elena,61023,Public,Engineering,Santa,98.78,Male
+Garcia,Jose,90901,Private,History,Batac,97.22,Female
+Santos,Juan,90407,Public,Accountancy,Santa,97.27,Female
+Mendoza,Pedro,60637,Private,Computer Science,Cervantes,98.02,Male
+Reyes,Juan,44670,Public,Psychology,Vigan,89.5,Male
+Gonzales,Maria,36919,Private,Accountancy,Laoag,90.24,Male
+Mendoza,Miguel,35733,Public,Finance,Cervantes,87.82,Male
+Mendoza,Miguel,74363,Private,Biology,Cervantes,95.52,Female
+Reyes,Elena,31919,Public,Computer Science,Santa,88.93,Female
+Garcia,Rosa,77799,Private,Finance,Candon,90.5,Male
+Torres,Luisa,90852,Public,Psychology,Vigan,98.48,Male
+Torres,Ana,76956,Private,History,Tagudin,88.75,Male
+Torres,Maria,78042,Public,Biology,Batac,95.69,Male
+Gonzales,Miguel,83912,Private,Computer Science,Narvacan,94.91,Male
+Gonzales,Miguel,97271,Public,Psychology,Vigan,89.34,Female
+Cruz,Ana,64647,Private,Sociology,Cervantes,94,Male
+Cruz,Miguel,36449,Public,Computer Science,Laoag,99.76,Female
+Flores,Juan,57409,Private,History,Baguio,97.84,Male
+Rivera,Elena,34690,Public,Economics,Narvacan,90.39,Female
+Torres,Miguel,63880,Private,Engineering,Baguio,90.65,Male
+Torres,Ana,53374,Public,Computer Science,Candon,92.97,Male
+Lopez,Elena,36593,Private,Engineering,Vigan,91.3,Female
+Rivera,Maria,52571,Public,Psychology,Narvacan,85.09,Female
+Flores,Pedro,76997,Private,Computer Science,Batac,88.77,Male
+Garcia,Maria,95809,Public,Finance,Candon,86.01,Male
+Mendoza,Jose,95953,Private,Engineering,Cervantes,90.47,Male
+Flores,Carlos,40543,Public,Finance,Narvacan,95.94,Male
+Torres,Rosa,82191,Private,Sociology,Batac,88.41,Male
+Gonzales,Ana,31307,Public,Economics,Laoag,88.12,Female
+Garcia,Ana,87999,Private,Accountancy,San Fernando,98.91,Female
+Santos,Jose,66968,Public,Literature,Batac,89.97,Female
+Gonzales,Maria,39350,Private,Sociology,Cervantes,86.76,Female
+Gonzales,Rosa,35770,Public,Sociology,Baguio,86.72,Female
+Cruz,Jose,66048,Private,Finance,Cervantes,86.74,Male
+Flores,Luisa,44803,Public,History,Batac,90.22,Male
+Cruz,Miguel,69330,Private,Economics,Baguio,92.91,Female
+Flores,Juan,69219,Public,Sociology,Candon,97.99,Male
+Garcia,Pedro,32245,Private,Psychology,Santa,92.36,Male
+Cruz,Pedro,49395,Public,Accountancy,Baguio,93.03,Male
+Torres,Ana,53313,Private,Economics,Vigan,86.07,Male
+Santos,Carlos,32593,Public,Biology,Vigan,91.25,Male
+Gonzales,Jose,76952,Private,Biology,Candon,89.93,Male
+Mendoza,Elena,43412,Public,Biology,Candon,94.14,Female
+Lopez,Juan,46457,Private,Literature,Vigan,93.35,Male
+Torres,Pedro,41230,Public,Finance,Batac,91.49,Female
+Rivera,Rosa,62761,Private,Psychology,Laoag,99.32,Male
+Lopez,Carlos,91656,Public,Economics,Batac,96.17,Female
+Rivera,Maria,68631,Private,Psychology,Laoag,95.36,Female
+Cruz,Juan,79603,Public,History,Baguio,94.79,Male
+Reyes,Jose,73926,Private,Finance,Candon,97.92,Female
+Garcia,Juan,46583,Public,Psychology,Narvacan,93.97,Female
+Flores,Pedro,32516,Private,Accountancy,Laoag,89.36,Male
+Lopez,Ana,87074,Public,Sociology,Baguio,87.04,Male
+Reyes,Miguel,30143,Private,Literature,Narvacan,90.53,Male
+Santos,Luisa,36750,Public,Literature,Santa,86.44,Female
+Santos,Ana,79238,Private,Finance,Baguio,95.77,Male
+Flores,Jose,80556,Public,Literature,Narvacan,97.76,Male
+Flores,Miguel,80236,Private,Sociology,Tagudin,88.42,Female
+Flores,Rosa,56896,Public,Finance,Cervantes,85.54,Male
+Santos,Pedro,82190,Private,History,Candon,87.92,Male
+Mendoza,Rosa,63735,Public,History,Baguio,96.78,Female
+Cruz,Elena,43597,Private,History,Batac,86.07,Female
+Cruz,Jose,39362,Public,Finance,Tagudin,96.46,Male
+Gonzales,Luisa,68240,Private,Engineering,Cervantes,96.16,Male
+Flores,Juan,36703,Public,Psychology,Narvacan,97.21,Male
+Gonzales,Rosa,67966,Private,Engineering,Vigan,98.58,Male
+Gonzales,Elena,92010,Public,Computer Science,Narvacan,94.51,Male
+Torres,Elena,96370,Private,History,Narvacan,90.91,Female
+Lopez,Maria,95368,Public,Psychology,San Fernando,94.66,Female
+Gonzales,Maria,45356,Private,Sociology,Candon,90.61,Male
+Rivera,Jose,71438,Public,Sociology,Vigan,87.31,Female
+Mendoza,Luisa,43168,Private,Literature,Batac,94.41,Male
+Lopez,Pedro,35861,Public,Literature,Candon,90.43,Male
+Torres,Pedro,30554,Private,Psychology,Vigan,92.09,Female
+Torres,Rosa,65132,Public,Finance,Cervantes,85.84,Female
+Torres,Elena,76911,Private,Sociology,Cervantes,89.27,Male
+Flores,Elena,32875,Public,History,San Fernando,96.69,Female
+Mendoza,Jose,50776,Private,Literature,Candon,98.47,Female
+Flores,Maria,31468,Public,Finance,Tagudin,97.79,Male
+Garcia,Jose,54155,Private,History,Vigan,85.74,Male
+Reyes,Maria,86692,Public,Computer Science,Santa,90.76,Male
+Flores,Pedro,30227,Private,History,Batac,88.6,Male
+Flores,Ana,92001,Public,Accountancy,Narvacan,92.39,Male
+Lopez,Pedro,81510,Private,Literature,Santa,95.9,Male
+Garcia,Ana,83647,Public,Engineering,Baguio,92.65,Female
+Santos,Rosa,90645,Private,Engineering,Vigan,93.21,Male
+Gonzales,Pedro,60522,Public,Psychology,Laoag,95.58,Female
+Lopez,Luisa,37761,Private,Biology,Vigan,93,Male
+Reyes,Miguel,69397,Public,Psychology,San Fernando,88.39,Female
+Cruz,Ana,94045,Private,History,Laoag,90.62,Female
+Torres,Rosa,38961,Public,Engineering,San Fernando,99.07,Male
+Rivera,Carlos,70910,Private,Psychology,Cervantes,89.94,Male
+Santos,Elena,82679,Public,Finance,Santa,85.75,Male
+Cruz,Elena,83119,Private,Accountancy,Vigan,95.52,Male
+Torres,Elena,89614,Public,Biology,Santa,94.28,Female
+Lopez,Elena,45763,Private,Biology,Vigan,93.37,Male
+Santos,Luisa,31302,Public,Sociology,Vigan,95.12,Male
+Garcia,Miguel,63535,Private,Accountancy,Cervantes,93.98,Male
+Flores,Carlos,76632,Public,Sociology,Candon,90.05,Male
+Garcia,Jose,42083,Private,Engineering,Candon,99.09,Female
+Cruz,Pedro,46560,Public,Accountancy,San Fernando,95.52,Male
+Garcia,Rosa,71715,Private,Psychology,Tagudin,91.47,Male
+Flores,Jose,54643,Public,Economics,Santa,94.03,Male
+Mendoza,Juan,67437,Private,Accountancy,San Fernando,92.88,Female
+Santos,Luisa,53996,Public,Economics,Santa,86.73,Male
+Reyes,Ana,73803,Private,Accountancy,Narvacan,97.08,Female
+Garcia,Juan,81818,Public,History,San Fernando,98.89,Male
+Rivera,Elena,67452,Private,Sociology,Santa,96.09,Female
+Santos,Luisa,83908,Public,Accountancy,Tagudin,88.89,Female
+Mendoza,Elena,97756,Private,Computer Science,Batac,92.19,Female
+Reyes,Rosa,76110,Public,Biology,Baguio,94.88,Female
+Flores,Ana,40028,Private,Psychology,Candon,87.68,Female
+Lopez,Elena,83883,Public,Computer Science,Narvacan,99.21,Male
+Gonzales,Pedro,91087,Private,History,Tagudin,86.53,Male
+Flores,Ana,41528,Public,Computer Science,Laoag,97.01,Female
+Reyes,Carlos,48980,Private,Literature,Santa,87.98,Male
+Garcia,Juan,55863,Public,Biology,Baguio,90.06,Male
+Mendoza,Jose,39586,Private,Computer Science,Vigan,85.26,Female
+Torres,Maria,45727,Public,Engineering,Tagudin,85.22,Male
+Cruz,Juan,51541,Private,History,Candon,98.24,Female
+Rivera,Elena,83164,Public,Computer Science,San Fernando,88.06,Male
+Reyes,Juan,89140,Private,Economics,Santa,98.89,Male
+Rivera,Elena,51633,Public,Engineering,Cervantes,88.32,Male
+Santos,Rosa,61885,Private,Biology,San Fernando,94.02,Male
+Garcia,Miguel,50482,Public,Biology,Batac,94.28,Female
+Rivera,Ana,67396,Private,Psychology,Narvacan,92.51,Male
+Garcia,Jose,31721,Public,Psychology,Baguio,93.2,Female
+Gonzales,Luisa,50936,Private,Accountancy,San Fernando,98.85,Female
+Santos,Rosa,44768,Public,Biology,Baguio,85.01,Female
+Flores,Ana,81551,Private,Biology,Santa,96.02,Female
+Mendoza,Juan,32286,Public,Engineering,Candon,90.15,Female
+Lopez,Juan,55476,Private,Economics,Batac,98.98,Female
+Torres,Rosa,89524,Public,Psychology,Laoag,91.42,Female
+Rivera,Elena,37099,Private,Economics,San Fernando,99.11,Female
+Reyes,Elena,39156,Public,Finance,Baguio,90.65,Male
+Cruz,Ana,31984,Private,Sociology,Laoag,86.74,Female
+Cruz,Luisa,41025,Public,Accountancy,Santa,98.21,Male
+Reyes,Jose,50685,Private,Finance,San Fernando,99.19,Male
+Cruz,Juan,63704,Public,Biology,Cervantes,96.1,Male
+Garcia,Ana,67129,Private,Engineering,Cervantes,97.35,Male
+Mendoza,Luisa,64207,Public,Economics,San Fernando,98.88,Male
+Cruz,Juan,65257,Private,Economics,Cervantes,99.29,Female
+Cruz,Pedro,88398,Public,Engineering,San Fernando,91.42,Male
+Reyes,Maria,64980,Private,Computer Science,Narvacan,95.44,Female
+Reyes,Maria,43520,Public,Accountancy,Cervantes,85.86,Male
+Reyes,Pedro,42948,Private,Psychology,Santa,96.91,Female
+Mendoza,Luisa,76945,Public,History,Tagudin,92.68,Male
+Garcia,Elena,37203,Private,Economics,Tagudin,99.85,Female
+Gonzales,Jose,64652,Public,Psychology,Batac,85.15,Female
+Torres,Pedro,85706,Private,Biology,Vigan,90.02,Female
+Mendoza,Luisa,85269,Public,Economics,Vigan,99.66,Female
+Torres,Luisa,91082,Private,Finance,San Fernando,85.41,Male
+Garcia,Carlos,88449,Public,Sociology,Batac,95.69,Female
+Torres,Ana,53282,Private,Economics,Narvacan,86.8,Female
+Mendoza,Rosa,44217,Public,Computer Science,Cervantes,94.12,Male
+Reyes,Luisa,49336,Private,Finance,Santa,99.57,Female
+Santos,Pedro,82685,Public,Biology,Candon,98.26,Female
+Mendoza,Luisa,81974,Private,Accountancy,Baguio,86.32,Male
+Cruz,Pedro,66502,Public,Biology,Tagudin,93.5,Male
+Lopez,Luisa,37902,Private,Biology,Tagudin,95.18,Male
+Garcia,Pedro,53313,Public,Finance,Laoag,90.9,Male
+Torres,Rosa,75305,Private,Finance,Vigan,96.89,Male
+Mendoza,Luisa,53447,Public,Accountancy,Vigan,95.37,Female
+Lopez,Jose,61608,Private,Economics,Narvacan,97.09,Male
+Flores,Ana,34109,Public,Computer Science,Tagudin,89.01,Female
+Cruz,Ana,81818,Private,Psychology,Laoag,95.11,Female
+Gonzales,Miguel,31073,Public,Psychology,San Fernando,94.8,Male
+Torres,Elena,77066,Private,Engineering,Batac,85.43,Male
+Lopez,Luisa,64295,Public,Economics,Tagudin,87.15,Female
+Gonzales,Pedro,64662,Private,Sociology,Vigan,92.43,Male
+Cruz,Rosa,85429,Public,History,Santa,85.37,Female
+Lopez,Maria,54083,Private,Engineering,Baguio,87.14,Male
+Mendoza,Jose,60648,Public,Biology,Candon,87.9,Male
+Cruz,Elena,97279,Private,History,Batac,96.45,Female
+Reyes,Juan,62766,Public,Finance,Candon,89.51,Female
+Cruz,Rosa,81696,Private,Psychology,Santa,92.71,Female
+Flores,Elena,75374,Public,Psychology,Tagudin,91.55,Female
+Santos,Miguel,37667,Private,Accountancy,Santa,98.31,Female
+Mendoza,Maria,40384,Public,Literature,Narvacan,89.88,Female
+Flores,Pedro,78911,Private,Economics,Cervantes,90.63,Female
+Garcia,Maria,80505,Public,Psychology,Baguio,97.53,Female
+Lopez,Maria,30306,Private,Psychology,Candon,91.96,Male
+Lopez,Jose,33293,Public,Literature,Laoag,92.67,Female
+Lopez,Elena,66887,Private,Psychology,Candon,89.84,Male
+Lopez,Rosa,66386,Public,Sociology,Vigan,99.68,Female
+Santos,Elena,50907,Private,Finance,Baguio,98.68,Male
+Santos,Juan,44988,Public,History,Narvacan,89.56,Female
+Lopez,Carlos,47830,Private,Literature,San Fernando,96.01,Male
+Torres,Carlos,53000,Public,Sociology,Narvacan,91.01,Female
+Mendoza,Luisa,99381,Private,History,Narvacan,87.34,Male
+Lopez,Pedro,33469,Public,Psychology,Baguio,96.14,Male
+Reyes,Pedro,61002,Private,Literature,Tagudin,88.49,Male
+Reyes,Carlos,65875,Public,Psychology,San Fernando,86.91,Female
+Torres,Luisa,33439,Private,History,Tagudin,96.21,Female
+Flores,Rosa,36945,Public,History,Tagudin,85.72,Male
+Flores,Jose,92576,Private,Biology,Tagudin,99.28,Female
+Garcia,Pedro,64906,Public,Economics,Narvacan,92.39,Male
+Rivera,Rosa,42627,Private,Biology,Cervantes,87.89,Female
+Cruz,Pedro,79909,Public,Psychology,Narvacan,97.92,Male
+Mendoza,Luisa,59914,Private,Literature,San Fernando,96,Female
+Gonzales,Luisa,42460,Public,Computer Science,Batac,97.34,Male
+Rivera,Carlos,44930,Private,Computer Science,Cervantes,96.39,Male
+Rivera,Luisa,98542,Public,Psychology,Batac,97.81,Female
+Reyes,Luisa,98926,Private,Literature,Baguio,92.25,Male
+Cruz,Elena,34115,Public,Computer Science,Cervantes,95.93,Female
+Santos,Maria,91353,Private,Accountancy,Santa,85.46,Female
+Torres,Maria,61443,Public,Finance,Candon,85.29,Female
+Mendoza,Maria,98891,Private,Computer Science,Baguio,89.74,Female
+Santos,Rosa,76839,Public,Sociology,Tagudin,85.15,Female
+Garcia,Jose,59259,Private,Biology,Batac,95.97,Female
+Reyes,Luisa,44380,Public,Engineering,Candon,90.93,Female
+Garcia,Jose,52070,Private,History,Santa,88.11,Female
+Reyes,Jose,82322,Public,Finance,Tagudin,94.2,Female
+Mendoza,Juan,62927,Private,Economics,Santa,95.95,Female
+Reyes,Juan,55462,Public,Biology,Candon,86.37,Male
+Torres,Maria,54758,Private,History,Cervantes,99.11,Female
+Rivera,Carlos,60846,Public,Psychology,Tagudin,86.36,Female
+Lopez,Jose,88093,Private,History,Cervantes,88.11,Female
+Cruz,Luisa,38456,Public,Accountancy,Vigan,92.21,Female
+Torres,Carlos,48888,Private,Biology,San Fernando,99.69,Female
+Rivera,Rosa,84887,Public,History,Santa,95.17,Male
+Santos,Pedro,87949,Private,Engineering,Narvacan,86.87,Female
+Rivera,Maria,88738,Public,Economics,Batac,91.9,Male
+Flores,Juan,87193,Private,Engineering,Baguio,86.97,Male
+Rivera,Jose,88678,Public,Literature,Vigan,89.77,Male
+Gonzales,Ana,62256,Private,Psychology,Laoag,86.35,Male
+Santos,Luisa,48242,Public,Sociology,Laoag,90.08,Male
+Lopez,Juan,86765,Private,Biology,Candon,98.34,Female
+Lopez,Miguel,46302,Public,Economics,Narvacan,85.12,Male
+Lopez,Pedro,93357,Private,Finance,Batac,99.5,Male
+Santos,Ana,55522,Public,Sociology,Batac,92.97,Female
+Garcia,Miguel,32159,Private,Computer Science,Batac,86.93,Female
+Garcia,Ana,85928,Public,Biology,Laoag,96.85,Male
+Mendoza,Rosa,89151,Private,Economics,San Fernando,98.44,Female
+Rivera,Maria,34652,Public,Economics,Santa,98.79,Female
+Torres,Carlos,75388,Private,Sociology,Batac,85.66,Male
+Reyes,Jose,48559,Public,Finance,San Fernando,94.2,Male
+Flores,Juan,40446,Private,Sociology,Batac,85.44,Male
+Flores,Juan,31932,Public,Sociology,Batac,91.96,Male
+Reyes,Juan,70165,Private,Biology,Tagudin,96.97,Male
+Lopez,Miguel,42985,Public,History,Narvacan,98.21,Female
+Reyes,Jose,97353,Private,Biology,Laoag,91.51,Male
+Cruz,Elena,74297,Public,Accountancy,Laoag,92.21,Male
+Cruz,Carlos,77040,Private,Literature,Laoag,85.39,Male
+Flores,Maria,75154,Public,History,Narvacan,95.42,Male
+Garcia,Jose,60148,Private,Economics,Vigan,99.68,Male
+Mendoza,Maria,63153,Public,Accountancy,Batac,98.84,Male
+Rivera,Pedro,49815,Private,History,Tagudin,93.92,Female
+Rivera,Carlos,66473,Public,Computer Science,Laoag,86.57,Female
+Rivera,Carlos,91127,Private,History,Vigan,93.72,Female
+Gonzales,Elena,52341,Public,Literature,Narvacan,93.16,Female
+Santos,Elena,72556,Private,Psychology,Santa,89.54,Female
+Gonzales,Pedro,81808,Public,Computer Science,San Fernando,93.6,Male
+Cruz,Ana,61826,Private,Engineering,Laoag,87.42,Male
+Garcia,Maria,91120,Public,Accountancy,Santa,92.54,Female
+Garcia,Pedro,41674,Private,Sociology,Vigan,91.2,Male
+Torres,Rosa,67471,Public,Economics,Santa,85.57,Female
+Cruz,Jose,76335,Private,Psychology,San Fernando,96.14,Male
+Flores,Luisa,78720,Public,Psychology,Laoag,87.54,Male
+Rivera,Rosa,45559,Private,Finance,Santa,86.06,Female
+Rivera,Miguel,49430,Public,Literature,Cervantes,94.75,Female
+Flores,Carlos,33309,Private,Psychology,Candon,87.79,Male
+Lopez,Carlos,37362,Public,Engineering,Batac,99.85,Female
+Rivera,Maria,43010,Private,History,San Fernando,93.42,Male
+Cruz,Ana,65661,Public,Sociology,Narvacan,91.91,Female
+Torres,Maria,58589,Private,History,Candon,90.49,Male
+Torres,Elena,72238,Public,Accountancy,Narvacan,88.1,Male
+Rivera,Miguel,79839,Private,Psychology,Vigan,89.85,Male
+Lopez,Maria,47808,Public,Accountancy,Tagudin,89.04,Female
+Garcia,Carlos,97302,Private,Engineering,Narvacan,87.58,Female
+Santos,Ana,33676,Public,Computer Science,Baguio,93.61,Female
+Mendoza,Miguel,90101,Private,Engineering,Santa,95.95,Male
+Rivera,Ana,33573,Public,Computer Science,San Fernando,92.3,Male
+Lopez,Ana,41847,Private,Finance,Laoag,96.88,Male
+Garcia,Pedro,48311,Public,Psychology,Laoag,97.78,Male
+Torres,Elena,50669,Private,Literature,Batac,97.89,Female
+Rivera,Pedro,55865,Public,Accountancy,Candon,95.73,Male
+Garcia,Jose,83635,Private,Biology,Laoag,90.74,Male
+Cruz,Jose,60302,Public,Psychology,Candon,95.41,Female
+Lopez,Luisa,42209,Private,Computer Science,Candon,93.55,Male
+Garcia,Carlos,95909,Public,Psychology,Vigan,88.09,Female
+Gonzales,Pedro,93470,Private,Sociology,Candon,96.8,Male
+Lopez,Luisa,67732,Public,Psychology,San Fernando,94.8,Male
+Cruz,Ana,98474,Private,Literature,Santa,86.15,Male
+Torres,Maria,39662,Public,Computer Science,Baguio,89.14,Female
+Rivera,Jose,52324,Private,Finance,Narvacan,92.07,Male
+Mendoza,Luisa,37931,Public,Finance,Baguio,93.36,Male
+Lopez,Miguel,93242,Private,Accountancy,Batac,98.5,Female
+Rivera,Elena,31516,Public,Psychology,Candon,88.49,Female
+Santos,Jose,73926,Private,Sociology,Narvacan,90.83,Female
+Reyes,Miguel,97399,Public,Finance,Vigan,96.97,Male
+Flores,Miguel,88988,Private,Psychology,Laoag,98.55,Female
+Gonzales,Luisa,72516,Public,History,Santa,97.6,Female
+Santos,Juan,49278,Private,Engineering,Santa,88.92,Male
+Mendoza,Carlos,62648,Public,Accountancy,Baguio,94.51,Female
+Mendoza,Luisa,61089,Private,Accountancy,Batac,90.29,Female
+Gonzales,Elena,66359,Public,Economics,Cervantes,93.11,Male
+Cruz,Carlos,61357,Private,Economics,Narvacan,90.4,Male
+Rivera,Rosa,51074,Public,History,Tagudin,93,Female
+Cruz,Rosa,31279,Private,Finance,Cervantes,90.41,Female
+Reyes,Pedro,54873,Public,Sociology,Baguio,98,Male
+Rivera,Jose,67054,Private,Biology,Cervantes,96.35,Male
+Santos,Miguel,65424,Public,Engineering,Vigan,95.8,Male
+Reyes,Maria,98527,Private,Sociology,Narvacan,94.91,Male
+Garcia,Elena,74841,Public,Biology,Santa,96.58,Female
+Santos,Pedro,99334,Private,Biology,Batac,89.1,Male
+Garcia,Pedro,49707,Public,History,Cervantes,90.85,Male
+Torres,Maria,83649,Private,Psychology,Baguio,99.33,Female
+Garcia,Juan,72233,Public,Psychology,Tagudin,98.71,Male
+Mendoza,Miguel,40118,Private,Engineering,Laoag,97.55,Male
+Reyes,Juan,83136,Public,Accountancy,Cervantes,86.75,Female
+Reyes,Juan,53100,Private,History,Narvacan,89.33,Male
+Rivera,Jose,37918,Public,Psychology,Candon,89.8,Female
+Santos,Miguel,83520,Private,Engineering,Laoag,93.7,Female
+Lopez,Juan,49012,Public,Psychology,Baguio,96.15,Male
+Garcia,Miguel,74284,Private,Computer Science,Laoag,96.82,Male
+Santos,Jose,98046,Public,History,Laoag,87,Male
+Mendoza,Maria,75653,Private,History,Candon,95.36,Female
+Torres,Luisa,33646,Public,Accountancy,Narvacan,87.91,Female
+Garcia,Elena,71197,Private,Economics,Laoag,85.35,Male
+Lopez,Jose,92206,Public,History,San Fernando,92.44,Male
+Cruz,Rosa,98257,Private,Computer Science,Laoag,93.56,Male
+Flores,Miguel,85737,Public,Economics,Narvacan,85.2,Male
+Gonzales,Carlos,93277,Private,Accountancy,Santa,92.47,Female
+Garcia,Rosa,70507,Public,Engineering,Batac,95.14,Female
+Reyes,Jose,34909,Private,History,Laoag,87.54,Male
+Gonzales,Rosa,74209,Public,History,San Fernando,93.2,Male
+Cruz,Miguel,69017,Private,Sociology,Narvacan,96.42,Male
+Rivera,Luisa,68071,Public,Sociology,Cervantes,99.62,Female
+Santos,Elena,56206,Private,Computer Science,Candon,86.91,Male
+Mendoza,Juan,64664,Public,Sociology,Vigan,98.06,Female
+Reyes,Pedro,78373,Private,Engineering,Laoag,97.98,Male
+Flores,Carlos,68590,Public,History,Batac,98.4,Female
+Torres,Rosa,60999,Private,Economics,Tagudin,86.57,Male
+Reyes,Maria,68246,Public,Accountancy,Santa,87.13,Female
+Rivera,Carlos,65507,Private,Biology,Tagudin,90,Male
+Torres,Ana,72587,Public,Economics,Laoag,97.04,Female
+Torres,Rosa,81652,Private,Accountancy,Cervantes,88.3,Female
+Reyes,Juan,51953,Public,Accountancy,Cervantes,85.78,Female
+Reyes,Miguel,42108,Private,Engineering,Tagudin,98.21,Female
+Reyes,Ana,81414,Public,Engineering,Cervantes,96.2,Female
+Lopez,Carlos,31392,Private,Finance,Candon,86.2,Female
+Garcia,Carlos,96443,Public,Economics,Santa,94.2,Female
+Santos,Rosa,32248,Private,Engineering,San Fernando,98.26,Male
+Lopez,Carlos,53388,Public,Finance,Baguio,99.52,Female
+Cruz,Juan,32849,Private,Psychology,Cervantes,99.29,Male
+Santos,Miguel,66530,Public,History,Santa,99.46,Female
+Santos,Rosa,57218,Private,Engineering,Narvacan,98.26,Male
+Torres,Miguel,97034,Public,History,Tagudin,86.63,Female
+Santos,Maria,78369,Private,Accountancy,Narvacan,90.88,Female
+Mendoza,Elena,43644,Public,Literature,Candon,92.48,Female
+Gonzales,Ana,85916,Private,Biology,Baguio,85.27,Female
+Rivera,Ana,68729,Public,Finance,Baguio,85.83,Female
+Cruz,Carlos,60280,Private,Biology,Baguio,97.27,Male
+Gonzales,Jose,56442,Public,Computer Science,Laoag,98.87,Female
+Torres,Jose,95336,Private,Computer Science,Santa,88.99,Male
+Lopez,Luisa,81615,Public,Engineering,San Fernando,96.33,Male
+Reyes,Juan,39008,Private,Engineering,Batac,90.68,Male
+Mendoza,Ana,98888,Public,History,Candon,92.83,Male
+Garcia,Jose,75365,Private,Engineering,Santa,89.89,Female
+Rivera,Ana,57018,Public,Engineering,Candon,89.44,Female
+Reyes,Jose,95078,Private,Engineering,San Fernando,94.66,Male
+Garcia,Carlos,52643,Public,Economics,Narvacan,93.93,Male
+Torres,Ana,50659,Private,Accountancy,San Fernando,91.08,Female
+Flores,Pedro,99334,Public,History,Laoag,98.29,Female
+Garcia,Rosa,61299,Private,Sociology,Baguio,87.95,Female
+Flores,Jose,93845,Public,Engineering,Baguio,93.35,Male
+Rivera,Rosa,57250,Private,Accountancy,Vigan,92.67,Male
+Mendoza,Maria,60111,Public,Economics,Vigan,95.5,Male
+Garcia,Juan,53159,Private,Computer Science,Cervantes,86.73,Male
+Flores,Elena,98577,Public,Computer Science,Santa,96.87,Male
+Lopez,Luisa,41471,Private,Sociology,Cervantes,99.31,Male
+Lopez,Jose,97079,Public,Accountancy,Laoag,93.44,Male
+Mendoza,Rosa,36433,Private,Computer Science,San Fernando,98.59,Female
+Flores,Luisa,48749,Public,Sociology,Tagudin,91.57,Female
+Gonzales,Elena,75558,Private,Sociology,Candon,96.99,Female
+Flores,Ana,61902,Public,Psychology,Candon,95.54,Female
+Gonzales,Maria,83303,Private,Sociology,Batac,91.37,Male
+Flores,Juan,69465,Public,Psychology,Santa,95.13,Male
+Cruz,Jose,58348,Private,Economics,Tagudin,98.38,Female
+Flores,Juan,38202,Public,Literature,Cervantes,91.89,Male
+Lopez,Rosa,95494,Private,Accountancy,Vigan,89.67,Female
+Garcia,Elena,44246,Public,Accountancy,Candon,97.1,Male
+Cruz,Rosa,54426,Private,Finance,Laoag,87.1,Female
+Torres,Maria,36400,Public,Sociology,Candon,95.56,Female
+Garcia,Pedro,39028,Private,Engineering,Batac,92.1,Male
+Lopez,Jose,77271,Public,Economics,Laoag,87.11,Male
+Reyes,Pedro,33476,Private,Sociology,Vigan,98.42,Male
+Reyes,Pedro,36179,Public,Sociology,Batac,92.84,Female
+Mendoza,Miguel,70244,Private,Sociology,Santa,91.58,Male
+Reyes,Elena,39378,Public,Computer Science,Batac,90.62,Female
+Rivera,Maria,56673,Private,Computer Science,Vigan,96.26,Female
+Gonzales,Miguel,92809,Public,Literature,Santa,91.14,Female
+Rivera,Rosa,45301,Private,Economics,Santa,99.9,Female
+Lopez,Rosa,40497,Public,Psychology,Baguio,99.79,Female
+Torres,Juan,74444,Private,Accountancy,Santa,94.41,Female
+Reyes,Rosa,47378,Public,Computer Science,Cervantes,85.83,Female
+Gonzales,Elena,65439,Private,Economics,Baguio,93.92,Female
+Santos,Miguel,56076,Public,Sociology,Vigan,89.34,Male
+Garcia,Elena,67139,Private,Literature,Vigan,96.79,Male
+Mendoza,Jose,85577,Public,Economics,Candon,88.68,Male
+Rivera,Luisa,50373,Private,Sociology,San Fernando,96.63,Female
+Reyes,Luisa,76994,Public,Finance,San Fernando,95.5,Female
+Santos,Miguel,66310,Private,Computer Science,Santa,95.25,Male
+Torres,Ana,53105,Public,Accountancy,San Fernando,99.75,Female
+Rivera,Maria,48790,Private,Computer Science,Santa,87.81,Female
+Mendoza,Elena,37786,Public,Economics,Santa,94.22,Male
+Rivera,Elena,59480,Private,Literature,Batac,88.1,Male
+Gonzales,Ana,56191,Public,Economics,Vigan,93.43,Male
+Rivera,Ana,37984,Private,History,Tagudin,90.1,Male
+Flores,Carlos,69449,Public,Accountancy,Vigan,85.77,Male
+Mendoza,Elena,84817,Private,Engineering,Narvacan,86.17,Female
+Santos,Maria,76685,Public,Literature,San Fernando,85.55,Male
+Reyes,Jose,72296,Private,Engineering,Candon,86.6,Male
+Lopez,Rosa,86063,Public,Accountancy,Santa,87.74,Female
+Lopez,Miguel,68107,Private,Literature,Vigan,86.81,Female
+Flores,Rosa,90281,Public,Engineering,San Fernando,97.58,Female
+Santos,Rosa,36424,Private,Literature,Baguio,94.99,Male
+Gonzales,Ana,82284,Public,Accountancy,San Fernando,86.99,Female
+Rivera,Miguel,97427,Private,Economics,Baguio,91,Male
+Santos,Carlos,35347,Public,Computer Science,Vigan,95.96,Female
+Cruz,Luisa,80757,Private,Literature,Narvacan,89.72,Female
+Flores,Ana,60461,Public,Psychology,Tagudin,98.8,Female
+Rivera,Maria,93682,Private,Computer Science,Baguio,95.12,Male
+Cruz,Jose,35843,Public,Computer Science,Baguio,88.79,Male
+Torres,Juan,94801,Private,Biology,San Fernando,87.18,Male
+Santos,Miguel,74762,Public,Accountancy,Vigan,92.42,Female
+Torres,Juan,91897,Private,Literature,Baguio,88.75,Male
+Mendoza,Jose,92554,Public,Engineering,Narvacan,99.42,Male
+Cruz,Juan,78041,Private,Computer Science,San Fernando,95.03,Female
+Flores,Elena,87350,Public,Literature,San Fernando,89.15,Male
+Reyes,Luisa,54605,Private,Finance,Santa,90.6,Female
+Cruz,Carlos,47634,Public,Engineering,Narvacan,96.36,Female
+Lopez,Elena,50780,Private,Sociology,Baguio,96.91,Male
+Rivera,Juan,84320,Public,Literature,Candon,94.71,Male
+Cruz,Rosa,58809,Private,Computer Science,Cervantes,89.23,Male
+Mendoza,Pedro,52803,Public,Psychology,Batac,87.52,Male
+Lopez,Elena,83237,Private,Economics,Cervantes,86.34,Male
+Mendoza,Elena,98362,Public,Computer Science,Batac,89.97,Male
+Reyes,Juan,71516,Private,Literature,Candon,92.06,Male
+Santos,Luisa,62995,Public,Sociology,Vigan,89.13,Female
+Rivera,Carlos,93828,Private,Literature,Narvacan,86.43,Female
+Mendoza,Juan,52159,Public,Psychology,Baguio,87.09,Female
+Mendoza,Luisa,83764,Private,Economics,San Fernando,89.22,Female
+Garcia,Pedro,58506,Public,Literature,Vigan,97.97,Female
+Cruz,Elena,99699,Private,Sociology,Narvacan,94.25,Female
+Garcia,Elena,73015,Public,History,Candon,96.15,Male
+Flores,Luisa,31004,Private,Finance,Laoag,99.44,Female
+Garcia,Jose,98012,Public,Engineering,Tagudin,90.81,Female
+Flores,Pedro,79025,Private,Finance,San Fernando,90.77,Female
+Lopez,Miguel,48569,Public,Sociology,Laoag,92.21,Female
+Rivera,Maria,40715,Private,Computer Science,Baguio,87.98,Female
+Flores,Ana,95060,Public,Engineering,Narvacan,89.95,Female
+Flores,Maria,60014,Private,Accountancy,Laoag,90.14,Female
+Reyes,Ana,33077,Public,Accountancy,Laoag,92.94,Female
+Cruz,Ana,70810,Private,Literature,Santa,99.51,Male
+Reyes,Pedro,41147,Public,Accountancy,Batac,86.18,Female
+Mendoza,Ana,45382,Private,Biology,San Fernando,87.41,Male
+Lopez,Carlos,99081,Public,Psychology,San Fernando,96.88,Female
+Lopez,Maria,89527,Private,Accountancy,Laoag,91.28,Male
+Flores,Juan,80296,Public,Biology,San Fernando,97.22,Female
+Cruz,Carlos,90273,Private,Psychology,Batac,91.25,Female
+Santos,Luisa,31158,Public,History,Tagudin,97.89,Female
+Garcia,Rosa,80369,Private,Economics,Candon,92.07,Female
+Reyes,Elena,49171,Public,Finance,Laoag,91.43,Female
+Torres,Pedro,80831,Private,Engineering,Narvacan,87.97,Male
+Flores,Luisa,62842,Public,Biology,Laoag,86.01,Male
+Flores,Maria,79418,Private,Sociology,Baguio,92.82,Male
+Lopez,Ana,97116,Public,Psychology,Tagudin,98.31,Male
+Cruz,Miguel,79864,Private,Economics,Cervantes,94.44,Male
+Rivera,Pedro,30356,Public,Literature,Narvacan,98.55,Male
+Gonzales,Ana,76455,Private,Finance,Vigan,90.17,Male
+Garcia,Rosa,34265,Public,History,Vigan,87.89,Female
+Torres,Juan,61697,Private,Biology,Narvacan,86.99,Female
+Reyes,Pedro,97218,Public,Sociology,Narvacan,93.64,Male
+Reyes,Pedro,52493,Private,Sociology,Batac,93.76,Male
+Gonzales,Luisa,68653,Public,Sociology,San Fernando,93.03,Female
+Gonzales,Miguel,44883,Private,Biology,Narvacan,91.7,Female
+Flores,Rosa,32367,Public,Accountancy,Batac,86.21,Male
+Torres,Carlos,94765,Private,Literature,San Fernando,97.75,Female
+Cruz,Carlos,86912,Public,Sociology,Vigan,98.33,Female
+Lopez,Carlos,55025,Private,Sociology,San Fernando,98.4,Male
+Mendoza,Maria,75783,Public,Engineering,Baguio,89.54,Male
+Garcia,Juan,50384,Private,Economics,San Fernando,97.72,Female
+Reyes,Jose,31437,Public,Psychology,Santa,94.34,Male
+Lopez,Elena,45505,Private,Accountancy,Santa,88.79,Male
+Lopez,Juan,70672,Public,Engineering,Cervantes,94.99,Female
+Torres,Carlos,75513,Private,Psychology,Candon,99.69,Male
+Mendoza,Juan,30273,Public,Engineering,Santa,93.84,Female
+Reyes,Juan,55347,Private,Finance,Baguio,86.79,Female
+Garcia,Jose,48568,Public,Psychology,Santa,90.15,Male
+Reyes,Jose,66795,Private,Accountancy,Laoag,86.35,Female
+Cruz,Carlos,89783,Public,Computer Science,Laoag,89.9,Male
+Garcia,Miguel,89667,Private,Psychology,Batac,97.58,Female
+Gonzales,Miguel,41450,Public,Engineering,Cervantes,96.1,Male
+Cruz,Ana,72833,Private,Finance,Baguio,90.23,Female
+Santos,Carlos,31018,Public,Biology,San Fernando,98.4,Female
+Garcia,Juan,84827,Private,Literature,Cervantes,91.71,Male
+Flores,Pedro,59422,Public,Sociology,Baguio,97.97,Male
+Reyes,Ana,30685,Private,Engineering,Santa,85.24,Male
+Cruz,Carlos,85903,Public,Literature,San Fernando,98.77,Female
+Flores,Juan,38612,Private,Engineering,Tagudin,95.49,Female
+Torres,Miguel,95751,Public,Economics,Tagudin,91.76,Male
+Torres,Maria,97300,Private,Literature,Candon,88.6,Male
+Torres,Pedro,92713,Public,Sociology,Vigan,97.01,Female
+Torres,Luisa,30879,Private,Biology,Baguio,93.28,Male
+Santos,Jose,97576,Public,Biology,San Fernando,98.75,Female
+Lopez,Ana,86652,Private,Literature,Baguio,89.53,Male
+Cruz,Rosa,30309,Public,Engineering,Laoag,87.36,Female
+Cruz,Elena,75597,Private,Finance,Candon,87.88,Female
+Flores,Luisa,51671,Public,Biology,Batac,86.62,Female
+Reyes,Jose,73936,Private,Psychology,Narvacan,89.17,Female
+Cruz,Juan,32326,Public,Economics,Vigan,93.77,Female
+Reyes,Carlos,36635,Private,History,Tagudin,91.02,Female
+Gonzales,Maria,43930,Public,History,Laoag,98.21,Male
+Gonzales,Luisa,60366,Private,Computer Science,San Fernando,94.31,Female
+Torres,Elena,56249,Public,Sociology,Baguio,99.58,Female
+Santos,Miguel,75758,Private,Psychology,Baguio,94.55,Female
+Mendoza,Maria,42607,Public,Accountancy,Tagudin,89.25,Female
+Rivera,Miguel,46286,Private,History,Laoag,88.89,Female
+Rivera,Rosa,54515,Public,Literature,Vigan,85.63,Male
+Torres,Ana,71012,Private,Finance,Candon,95.15,Male
+Rivera,Miguel,75067,Public,Literature,Tagudin,87,Female
+Mendoza,Elena,51373,Private,Accountancy,Cervantes,87.54,Female
+Garcia,Elena,84629,Public,Psychology,Batac,97.99,Male
+Flores,Elena,66963,Private,Accountancy,Candon,85.15,Male
+Lopez,Juan,79161,Public,Literature,Candon,91.97,Male
+Garcia,Elena,72967,Private,Finance,Batac,89.43,Female
+Reyes,Luisa,84756,Public,Biology,Vigan,93.49,Female
+Rivera,Elena,83904,Private,Accountancy,Baguio,87.76,Male
+Mendoza,Miguel,31312,Public,Psychology,San Fernando,88.24,Female
+Rivera,Luisa,64992,Private,Psychology,San Fernando,99.63,Male
+Flores,Juan,68424,Public,Sociology,Vigan,86.74,Female
+Reyes,Maria,62008,Private,Sociology,Tagudin,89.36,Female
+Cruz,Juan,79090,Public,Literature,Tagudin,92.07,Female
+Lopez,Maria,96138,Private,Accountancy,Baguio,88.6,Male
+Mendoza,Elena,51750,Public,Computer Science,Tagudin,89.57,Female
+Cruz,Elena,59723,Private,Psychology,Vigan,91.99,Female
+Torres,Ana,74822,Public,Sociology,Santa,97.74,Male
+Rivera,Luisa,76549,Private,Computer Science,Vigan,95.82,Male
+Garcia,Ana,90210,Public,Sociology,Batac,88.49,Female
+Lopez,Juan,59096,Private,Biology,Vigan,91.44,Male
+Lopez,Juan,90603,Public,Sociology,Laoag,92.62,Female
+Cruz,Carlos,39812,Private,Literature,Santa,98.89,Female
+Garcia,Miguel,90180,Public,Accountancy,Santa,92.33,Female
+Gonzales,Rosa,46887,Private,Computer Science,Candon,93.48,Male
+Flores,Jose,83633,Public,Economics,Vigan,87.49,Male
+Gonzales,Miguel,39677,Private,Accountancy,Santa,88.16,Female
+Gonzales,Rosa,67978,Public,Accountancy,Baguio,94.16,Male
+Rivera,Ana,59352,Private,Accountancy,Laoag,96.74,Female
+Mendoza,Elena,39532,Public,Accountancy,Vigan,94.13,Male
+Santos,Elena,42399,Private,Biology,San Fernando,91.43,Female
+Gonzales,Maria,74850,Public,Psychology,San Fernando,93.32,Male
+Torres,Jose,86469,Private,Engineering,Cervantes,93.1,Female
+Gonzales,Jose,33641,Public,Psychology,Tagudin,96.07,Male
+Rivera,Jose,56130,Private,Economics,San Fernando,98.98,Male
+Gonzales,Juan,60480,Public,History,Santa,97.68,Male
+Santos,Carlos,86353,Private,Economics,Tagudin,93.36,Female
+Rivera,Juan,87465,Public,Finance,Batac,92.94,Male
+Reyes,Ana,46469,Private,Accountancy,Cervantes,97.36,Male
+Rivera,Maria,68542,Public,Psychology,Batac,97.9,Female
+Lopez,Rosa,35444,Private,Engineering,San Fernando,86.04,Female
+Torres,Rosa,76872,Public,Sociology,Tagudin,88.01,Male
+Flores,Maria,93181,Private,History,Narvacan,96.98,Male
+Flores,Ana,33154,Public,Sociology,Cervantes,92.63,Male
+Rivera,Carlos,92458,Private,Finance,Tagudin,94.03,Female
+Lopez,Maria,59210,Public,Economics,Cervantes,96.61,Female
+Cruz,Miguel,86592,Private,Biology,Baguio,88.09,Female
+Garcia,Pedro,66837,Public,Computer Science,Tagudin,86.1,Female
+Rivera,Pedro,84257,Private,Psychology,San Fernando,87.26,Male
+Flores,Jose,53050,Public,Engineering,Narvacan,89.15,Female
+Mendoza,Maria,42658,Private,Literature,Santa,95.39,Male
+Lopez,Carlos,38863,Public,Psychology,Laoag,97,Female
+Flores,Ana,91398,Private,Sociology,Laoag,86.72,Male
+Lopez,Pedro,34447,Public,Accountancy,Vigan,89.75,Female
+Torres,Elena,94110,Private,History,Tagudin,95.23,Male
+Torres,Juan,76525,Public,Economics,Baguio,88.27,Female
+Torres,Maria,30862,Private,Biology,Baguio,88.42,Male
+Mendoza,Miguel,33791,Public,History,San Fernando,98.35,Male
+Flores,Carlos,32281,Private,Literature,Batac,91.05,Male
+Mendoza,Ana,47528,Public,Biology,Vigan,85.6,Male
+Flores,Jose,41387,Private,Sociology,Batac,88.12,Female
+Flores,Jose,71288,Public,Computer Science,Baguio,99.07,Male
+Reyes,Ana,96272,Private,Economics,San Fernando,96.56,Male
+Garcia,Ana,50907,Public,Finance,Laoag,95.27,Female
+Flores,Elena,79170,Private,Engineering,Cervantes,99.46,Male
+Gonzales,Luisa,34474,Public,Economics,Narvacan,94.72,Male
+Mendoza,Juan,98474,Private,Accountancy,Tagudin,96.85,Female
+Mendoza,Carlos,85751,Public,Computer Science,Batac,86.62,Male
+Lopez,Pedro,96768,Private,Literature,Baguio,89.64,Female
+Reyes,Miguel,61992,Public,Literature,Tagudin,90.71,Female
+Garcia,Juan,35571,Private,Psychology,Cervantes,96.53,Male
+Santos,Ana,47769,Public,History,Cervantes,97.39,Female
+Cruz,Luisa,92402,Private,Computer Science,Candon,89.81,Female
+Torres,Miguel,63274,Public,Psychology,Tagudin,90.06,Female
+Santos,Carlos,58362,Private,History,Tagudin,85.57,Female
+Cruz,Elena,76026,Public,History,Baguio,95.19,Female
+Lopez,Pedro,56503,Private,Psychology,San Fernando,90.49,Female
+Mendoza,Rosa,33824,Public,Sociology,Batac,93.07,Female
+Santos,Miguel,32729,Private,Literature,San Fernando,91.1,Male
+Torres,Luisa,48568,Public,Psychology,Candon,95.66,Male
+Torres,Pedro,51036,Private,History,Tagudin,93.4,Female
+Garcia,Jose,59049,Public,Computer Science,Santa,94.93,Male
+Cruz,Luisa,49720,Private,Sociology,Baguio,96.69,Female
+Flores,Miguel,54099,Public,Finance,Candon,89.24,Female
+Gonzales,Carlos,61156,Private,Sociology,Batac,99.29,Female
+Mendoza,Rosa,33944,Public,Sociology,Narvacan,96.97,Female
+Mendoza,Jose,71776,Private,Economics,Candon,90.16,Male
+Rivera,Elena,46253,Public,Computer Science,Santa,88.2,Female
+Cruz,Miguel,72062,Private,Psychology,Candon,96.96,Male
+Lopez,Miguel,58311,Public,Psychology,Santa,88.4,Male
+Gonzales,Luisa,63446,Private,Literature,Santa,97.3,Male
+Garcia,Juan,39375,Public,Psychology,San Fernando,97.25,Female
+Santos,Jose,70184,Private,Engineering,Candon,96.87,Female
+Cruz,Elena,84718,Public,Computer Science,Batac,98.53,Female
+Torres,Carlos,82369,Private,Economics,Tagudin,88.38,Female
+Torres,Elena,60158,Public,Accountancy,San Fernando,86.78,Male
+Gonzales,Luisa,44427,Private,Finance,Tagudin,91.37,Male
+Garcia,Ana,77442,Public,Finance,Candon,98.34,Female
+Reyes,Ana,96998,Private,Engineering,Cervantes,96.25,Female
+Cruz,Maria,55292,Public,Literature,Baguio,86.97,Female
+Mendoza,Juan,62856,Private,Accountancy,Narvacan,91.6,Male
+Cruz,Elena,80107,Public,Engineering,Candon,94.93,Male
+Torres,Maria,47962,Private,History,Candon,92.27,Female
+Garcia,Jose,48667,Public,Biology,Candon,98.76,Male
+Torres,Juan,72677,Private,Economics,Cervantes,97.65,Female
+Santos,Juan,41531,Public,Psychology,Narvacan,96.5,Male
+Lopez,Elena,56440,Private,Literature,San Fernando,97.88,Female
+Lopez,Luisa,72050,Public,Sociology,Baguio,92.48,Male
+Flores,Maria,95532,Private,Economics,Narvacan,90.18,Female
+Torres,Elena,58333,Public,Engineering,Candon,98.8,Male
+Rivera,Rosa,93252,Private,Economics,San Fernando,96.84,Male
+Torres,Juan,42196,Public,Sociology,Candon,91.89,Female
+Garcia,Juan,78685,Private,Biology,Laoag,87.85,Female
+Santos,Luisa,65805,Public,Finance,Narvacan,97.56,Female
+Santos,Jose,42204,Private,Finance,Cervantes,86.41,Female
+Cruz,Juan,95821,Public,Accountancy,Cervantes,93.3,Female
+Garcia,Juan,74799,Private,Economics,Narvacan,98.69,Female
+Garcia,Miguel,83604,Public,Accountancy,Cervantes,88.1,Male
+Rivera,Maria,52557,Private,Biology,Laoag,96.06,Male
+Gonzales,Miguel,95312,Public,History,San Fernando,92.98,Male
+Flores,Juan,32699,Private,Biology,Batac,91.53,Male
+Cruz,Miguel,67061,Public,Literature,Candon,96.19,Male
+Torres,Pedro,39116,Private,History,Tagudin,88.91,Male
+Santos,Elena,45721,Public,Computer Science,Santa,92.02,Male
+Cruz,Maria,32916,Private,Literature,Cervantes,99.31,Male
+Lopez,Jose,47108,Public,Psychology,Laoag,85.73,Male
+Reyes,Maria,63322,Private,History,Santa,91.92,Female
+Gonzales,Carlos,39121,Public,Literature,San Fernando,95.32,Male
+Lopez,Jose,32000,Private,Engineering,San Fernando,89.31,Male
+Garcia,Maria,87888,Public,Accountancy,San Fernando,93.38,Female
+Mendoza,Elena,85494,Private,Engineering,Tagudin,92.68,Female
+Flores,Ana,67332,Public,Economics,Candon,90.44,Female
+Garcia,Miguel,43449,Private,Accountancy,Candon,85.38,Male
+Mendoza,Maria,65366,Public,Computer Science,Vigan,97.95,Female
+Flores,Maria,55792,Private,Literature,Vigan,92.88,Female
+Reyes,Ana,45910,Public,Engineering,Santa,91.23,Male
+Rivera,Ana,76838,Private,Literature,San Fernando,89.65,Female
+Santos,Pedro,92861,Public,Biology,Tagudin,89.63,Male
+Torres,Ana,92155,Private,Computer Science,Santa,89.36,Male
+Torres,Ana,39162,Public,Economics,Batac,88.02,Female
+Reyes,Ana,75325,Private,Economics,Laoag,92.63,Male
+Gonzales,Luisa,83289,Public,Sociology,Santa,93.5,Male
+Flores,Elena,76931,Private,Finance,Cervantes,91.95,Male
+Cruz,Jose,47329,Public,Economics,Narvacan,92.56,Female
+Torres,Juan,52654,Private,Literature,Laoag,94.51,Male
+Reyes,Rosa,40734,Public,Literature,Batac,88.17,Male
+Santos,Miguel,40006,Private,Accountancy,Tagudin,92.86,Female
+Mendoza,Ana,30049,Public,Psychology,Tagudin,86.13,Male
+Torres,Maria,79179,Private,Economics,Candon,91.34,Female
+Reyes,Maria,84471,Public,Psychology,Batac,95.63,Female
+Lopez,Rosa,39225,Private,Computer Science,San Fernando,95.28,Male
+Rivera,Jose,66408,Public,Literature,Batac,89.89,Female
+Gonzales,Carlos,99879,Private,Finance,Tagudin,95.47,Male
+Garcia,Juan,47803,Public,Biology,Candon,86.54,Female
+Santos,Rosa,45636,Private,Accountancy,Batac,85.45,Female
+Flores,Juan,83451,Public,Engineering,Santa,96.17,Male
+Santos,Pedro,84463,Private,Computer Science,San Fernando,97.69,Male
+Mendoza,Luisa,90903,Public,History,Santa,85.08,Male
+Lopez,Ana,82115,Private,Computer Science,Vigan,91.49,Male
+Rivera,Ana,54579,Public,Psychology,Narvacan,85.19,Female
+Rivera,Pedro,99536,Private,Economics,Santa,99.17,Female
+Gonzales,Pedro,99009,Public,Economics,Tagudin,91.13,Female
+Gonzales,Carlos,99554,Private,Computer Science,Narvacan,98.9,Male
+Torres,Carlos,68061,Public,Sociology,Cervantes,88.5,Male
+Gonzales,Jose,56861,Private,History,San Fernando,93.22,Male
+Reyes,Juan,74746,Public,Psychology,Batac,99.89,Male
+Garcia,Miguel,97222,Private,Economics,Baguio,98.39,Male
+Mendoza,Luisa,49885,Public,History,Laoag,95.57,Female
+Santos,Juan,41591,Private,History,Candon,88.76,Male
+Reyes,Ana,55430,Public,Economics,Candon,98.4,Male
+Garcia,Luisa,84050,Private,Biology,Vigan,96.06,Female
+Flores,Luisa,68655,Public,Finance,Candon,98.56,Male
+Reyes,Pedro,81010,Private,Psychology,Cervantes,98.13,Female
+Garcia,Maria,54650,Public,History,Batac,98.51,Male
+Flores,Carlos,59490,Private,Biology,Candon,94.42,Female
+Lopez,Ana,44162,Public,Literature,San Fernando,95.98,Male
+Reyes,Maria,75339,Private,History,Vigan,97.22,Female
+Mendoza,Ana,88423,Public,Literature,San Fernando,97.78,Male
+Cruz,Miguel,66123,Private,Computer Science,Cervantes,88.54,Male
+Reyes,Ana,45572,Public,Economics,San Fernando,98.11,Male
+Mendoza,Jose,44634,Private,Accountancy,Laoag,89.84,Female
+Lopez,Maria,84026,Public,Psychology,Narvacan,90.9,Male
+Reyes,Juan,81586,Private,History,Candon,97.48,Male
+Garcia,Ana,52253,Public,Economics,Candon,87.52,Male
+Flores,Jose,68228,Private,Engineering,Batac,90.31,Male
+Gonzales,Luisa,91461,Public,Economics,Laoag,94.02,Male
+Torres,Elena,35151,Private,Computer Science,Cervantes,98.79,Male
+Flores,Luisa,32593,Public,Computer Science,Laoag,94.71,Female
+Cruz,Carlos,73326,Private,Literature,Santa,95.74,Female
+Flores,Rosa,93141,Public,History,Narvacan,95.93,Female
+Gonzales,Luisa,60891,Private,Accountancy,Vigan,92.8,Male
+Flores,Juan,59049,Public,Psychology,Narvacan,92.58,Male
+Torres,Elena,30789,Private,Psychology,Baguio,92.69,Female
+Reyes,Pedro,68634,Public,Sociology,Santa,92.87,Female
+Rivera,Carlos,89875,Private,Psychology,Candon,89.48,Male
+Flores,Carlos,45251,Public,Sociology,San Fernando,88.27,Female
+Gonzales,Luisa,83009,Private,Biology,Candon,86.02,Male
+Reyes,Jose,82253,Public,Economics,Santa,93.78,Female
+Reyes,Carlos,96650,Private,History,Santa,87.55,Female
+Rivera,Pedro,93508,Public,History,Narvacan,93.69,Female
+Gonzales,Miguel,46096,Private,Finance,Narvacan,95.85,Female
+Santos,Miguel,30990,Public,Finance,Tagudin,94.23,Female
+Torres,Luisa,31607,Private,Engineering,Candon,86.48,Male
+Lopez,Pedro,51946,Public,Engineering,Cervantes,93.85,Female
+Reyes,Carlos,73380,Private,Economics,Tagudin,99.12,Female
+Gonzales,Elena,60090,Public,Computer Science,Narvacan,95.51,Male
+Santos,Rosa,86042,Private,Sociology,Vigan,91.77,Male
+Reyes,Jose,69166,Public,Accountancy,Vigan,96.83,Female
+Garcia,Jose,30759,Private,Accountancy,Baguio,92.52,Male
+Santos,Juan,56988,Public,Computer Science,San Fernando,99.01,Male
+Mendoza,Pedro,58498,Private,Computer Science,San Fernando,90.63,Male
+Reyes,Miguel,42038,Public,History,Santa,93.11,Male
+Garcia,Elena,99383,Private,Computer Science,Candon,95.58,Male
+Santos,Maria,90156,Public,Literature,Baguio,96.26,Female
+Gonzales,Elena,40507,Private,Sociology,Batac,91.02,Female
+Reyes,Juan,35256,Public,History,Baguio,95.5,Female
+Garcia,Carlos,90496,Private,Economics,Santa,90.81,Female
+Cruz,Miguel,73882,Public,Engineering,Baguio,87.62,Female
+Garcia,Pedro,56980,Private,Economics,Tagudin,92.23,Male
+Torres,Juan,40850,Public,Engineering,Santa,98.23,Female
+Mendoza,Juan,91850,Private,Biology,Vigan,92.57,Female
+Garcia,Rosa,46285,Public,Finance,Baguio,88.19,Male
+Rivera,Jose,79336,Private,Accountancy,Cervantes,96.16,Female
+Cruz,Rosa,88687,Public,Accountancy,Narvacan,87.48,Female
+Reyes,Elena,74499,Private,Accountancy,Tagudin,91.99,Male
+Reyes,Rosa,39066,Public,Sociology,Candon,92.14,Male
+Flores,Miguel,76088,Private,Economics,Batac,93.53,Female
+Rivera,Juan,99160,Public,Literature,Tagudin,94.75,Male
+Torres,Juan,45892,Private,Finance,Cervantes,92.2,Female
+Flores,Elena,63367,Public,Computer Science,Baguio,85.59,Male
+Garcia,Jose,50387,Private,Accountancy,Narvacan,96.89,Male
+Rivera,Ana,56870,Public,Psychology,Vigan,94.45,Male
+Cruz,Ana,96881,Private,Psychology,Cervantes,87.49,Female
+Lopez,Luisa,92018,Public,Literature,Batac,96.36,Female
+Mendoza,Pedro,66901,Private,Finance,Batac,89.16,Female
+Lopez,Ana,36098,Public,Biology,Candon,89.26,Female
+Lopez,Luisa,97683,Private,Psychology,Vigan,99.12,Female
+Torres,Elena,47610,Public,Literature,Narvacan,86.79,Male
+Garcia,Maria,72367,Private,Accountancy,Baguio,91.04,Female
+Cruz,Elena,45373,Public,Computer Science,Laoag,93.39,Female
+Reyes,Luisa,94218,Private,Psychology,Candon,94.73,Male
+Mendoza,Rosa,81303,Public,Engineering,Batac,86.84,Male
+Santos,Luisa,32382,Private,Biology,Narvacan,98.27,Male
+Torres,Ana,89850,Public,History,Vigan,90.85,Male
+Lopez,Ana,80587,Private,Sociology,Candon,94.63,Male
+Lopez,Ana,96795,Public,Finance,Santa,91.79,Female
+Garcia,Pedro,42208,Private,Economics,Vigan,87.92,Male
+Flores,Luisa,34837,Public,Biology,Baguio,99.6,Male
+Gonzales,Pedro,65176,Private,Biology,Vigan,99.74,Male
+Garcia,Carlos,84587,Public,Economics,Santa,86.85,Female
+Rivera,Rosa,60001,Private,History,Santa,87.8,Female
+Santos,Elena,76407,Public,Computer Science,Cervantes,92.06,Male
+Torres,Miguel,42771,Private,Psychology,Laoag,90.65,Female
+Mendoza,Maria,53160,Public,Computer Science,Vigan,85.7,Male
+Flores,Elena,44822,Private,Economics,Tagudin,88.81,Male
+Garcia,Jose,90756,Public,Sociology,Cervantes,92.71,Female
+Cruz,Carlos,59716,Private,Computer Science,Tagudin,86.34,Female
+Rivera,Miguel,90791,Public,Literature,Narvacan,89.67,Female
+Rivera,Juan,87193,Private,History,Tagudin,85.3,Female
+Lopez,Elena,80746,Public,Finance,Tagudin,95.49,Female
+Gonzales,Juan,52731,Private,Biology,Narvacan,95.61,Female
+Lopez,Rosa,88133,Public,Literature,Narvacan,92.45,Female
+Torres,Rosa,57554,Private,Psychology,San Fernando,95.11,Female
+Santos,Rosa,71247,Public,History,Laoag,96.45,Female
+Cruz,Jose,86408,Private,Literature,Vigan,86.68,Male
+Cruz,Carlos,83995,Public,Sociology,Candon,96.22,Male
+Reyes,Ana,47838,Private,Psychology,Tagudin,88.96,Female
+Rivera,Carlos,82294,Public,Psychology,Vigan,95.23,Male
+Lopez,Luisa,36949,Private,History,Santa,89.07,Male
+Mendoza,Maria,79232,Public,Engineering,Narvacan,99.47,Female
+Garcia,Rosa,47879,Private,History,Laoag,87.71,Female
+Mendoza,Maria,39791,Public,Engineering,Tagudin,88.6,Female
+Mendoza,Maria,53512,Private,History,Laoag,87.7,Male
+Lopez,Juan,34058,Public,Finance,Baguio,98.3,Male
+Mendoza,Luisa,86963,Private,History,Tagudin,89.07,Female
+Lopez,Maria,40889,Public,Economics,Candon,96.11,Male
+Gonzales,Pedro,54170,Private,Psychology,Candon,93.96,Male
+Rivera,Juan,58145,Public,Engineering,Tagudin,89.72,Female
+Santos,Miguel,61981,Private,Accountancy,Tagudin,91.01,Male
+Garcia,Luisa,63968,Public,Computer Science,San Fernando,94.97,Male
+Torres,Miguel,39905,Private,Accountancy,Baguio,93.24,Female
+Rivera,Maria,51579,Public,Sociology,San Fernando,91.94,Male
+Gonzales,Miguel,98280,Private,Economics,Candon,86.57,Female
+Santos,Miguel,95000,Public,Biology,Batac,93.08,Male
+Santos,Elena,73667,Private,History,Batac,92.97,Male
+Cruz,Carlos,43515,Public,History,Batac,91.86,Female
+Mendoza,Miguel,80162,Private,History,Batac,88.63,Male
+Flores,Pedro,93573,Public,Economics,Cervantes,94.47,Male
+Gonzales,Maria,67032,Private,Biology,Vigan,91.97,Female
+Reyes,Miguel,44931,Public,Psychology,Vigan,93.46,Male
+Garcia,Elena,33386,Private,Biology,Batac,89.22,Male
+Flores,Jose,89321,Public,Computer Science,Narvacan,98.59,Female
+Torres,Ana,34213,Private,Computer Science,Baguio,90.66,Female
+Cruz,Miguel,64671,Public,Engineering,Santa,96.75,Female
+Garcia,Luisa,48409,Private,History,Tagudin,97.96,Male
+Rivera,Jose,41898,Public,Literature,San Fernando,86.47,Female
+Cruz,Pedro,52946,Private,Sociology,Laoag,92.77,Female
+Rivera,Juan,80619,Public,Psychology,Narvacan,93.32,Male
+Garcia,Ana,63895,Private,Sociology,Cervantes,96.78,Male
+Mendoza,Carlos,74733,Public,Finance,Santa,85.61,Female
+Torres,Jose,32229,Private,Sociology,Laoag,91.9,Female
+Gonzales,Rosa,35411,Public,Computer Science,San Fernando,93.62,Female
+Mendoza,Maria,89618,Private,Computer Science,Candon,91.46,Female
+Gonzales,Pedro,35511,Public,Engineering,Batac,92.87,Male
+Mendoza,Rosa,65370,Private,Biology,Santa,86.26,Male
+Reyes,Luisa,68550,Public,Accountancy,Laoag,96.24,Female
+Gonzales,Ana,63023,Private,History,Santa,92.05,Female
+Santos,Miguel,98091,Public,History,Candon,91.91,Male
+Cruz,Jose,32711,Private,Psychology,Batac,88.15,Female
+Santos,Miguel,40480,Public,Economics,Batac,85.9,Female
+Cruz,Rosa,44276,Private,Computer Science,Tagudin,90.4,Male
+Santos,Luisa,61575,Public,Finance,Cervantes,96.89,Female
+Rivera,Juan,95611,Private,Computer Science,Cervantes,88.05,Female
+Flores,Maria,89826,Public,Computer Science,Santa,87.24,Female
+Cruz,Ana,66875,Private,Sociology,Batac,91.34,Female
+Torres,Elena,55432,Public,History,Tagudin,88.99,Male
+Torres,Luisa,31123,Private,Engineering,Santa,92.52,Female
+Garcia,Miguel,78183,Public,Economics,Vigan,92.92,Male
+Gonzales,Ana,80303,Private,Engineering,Batac,89.51,Male
+Garcia,Jose,32848,Public,Engineering,Vigan,87.88,Male
+Cruz,Luisa,34135,Private,Engineering,Vigan,92.45,Male
+Gonzales,Luisa,30770,Public,Computer Science,San Fernando,96.08,Male
+Gonzales,Miguel,49319,Private,Biology,Vigan,86.18,Female
+Reyes,Maria,38257,Public,Finance,Santa,99.25,Female
+Cruz,Juan,56436,Private,Economics,Narvacan,97.13,Male
+Lopez,Miguel,43235,Public,Literature,Narvacan,94.9,Female
+Lopez,Luisa,37164,Private,History,Narvacan,97.08,Female
+Reyes,Juan,65216,Public,Economics,Santa,96.64,Male
+Mendoza,Luisa,68156,Private,History,Narvacan,87.2,Female
+Cruz,Pedro,30141,Public,Engineering,Vigan,93.91,Female
+Lopez,Pedro,61180,Private,Psychology,Batac,99.46,Male
+Flores,Maria,89485,Public,Biology,San Fernando,95.12,Female
+Torres,Carlos,75795,Private,Psychology,Candon,96.61,Female
+Reyes,Jose,53997,Public,Computer Science,Baguio,92.4,Female
+Reyes,Miguel,50019,Private,Engineering,San Fernando,92.2,Female
+Santos,Elena,60084,Public,Biology,Vigan,95.24,Female
+Garcia,Juan,34272,Private,Economics,Vigan,90.05,Male
+Torres,Luisa,88437,Public,Engineering,Baguio,98.26,Female
+Rivera,Pedro,68738,Private,History,Vigan,95.71,Female
+Torres,Elena,32653,Public,Accountancy,Tagudin,99.8,Male
+Santos,Miguel,78819,Private,Sociology,Baguio,93.11,Female
+Torres,Luisa,41048,Public,History,Cervantes,95.48,Female
+Flores,Rosa,43535,Private,History,Candon,90.21,Female
+Cruz,Maria,74270,Public,Biology,Vigan,93.33,Male
+Flores,Elena,87432,Private,Sociology,Tagudin,99.3,Male
+Santos,Miguel,55941,Public,History,Baguio,91.59,Male
+Rivera,Miguel,54219,Private,Accountancy,Batac,86.99,Female
+Reyes,Carlos,62370,Public,Engineering,Narvacan,91.04,Female
+Cruz,Miguel,74265,Private,Computer Science,Candon,85.09,Male
+Cruz,Elena,67414,Public,History,Vigan,92.38,Male
+Gonzales,Juan,31449,Private,Finance,Baguio,87.18,Male
+Rivera,Rosa,79428,Public,Accountancy,Tagudin,91.64,Female
+Torres,Pedro,91362,Private,Literature,Batac,85.19,Male
+Mendoza,Pedro,55845,Public,Economics,Laoag,93.87,Female
+Mendoza,Carlos,86061,Private,Accountancy,Narvacan,88.22,Male
+Torres,Maria,99517,Public,Engineering,Vigan,93.28,Male
+Cruz,Maria,69829,Private,Finance,Tagudin,88.84,Female
+Mendoza,Ana,97324,Public,Biology,Laoag,87.97,Male
+Cruz,Rosa,86195,Private,History,Cervantes,92.41,Female
+Santos,Juan,46166,Public,Finance,Candon,96.38,Female
+Flores,Juan,75877,Private,History,Vigan,99.21,Female
+Rivera,Luisa,68962,Public,Economics,Candon,90.47,Male
+Torres,Rosa,62305,Private,Engineering,Batac,95.8,Male
+Santos,Juan,41824,Public,Biology,Laoag,85.2,Female
+Reyes,Elena,88739,Private,History,Santa,86.18,Female
+Cruz,Elena,61111,Public,Accountancy,Baguio,94.63,Male
+Lopez,Elena,84741,Private,Engineering,San Fernando,89.85,Male
+Torres,Miguel,76984,Public,Psychology,Baguio,99.15,Female
+Mendoza,Miguel,32891,Private,Biology,San Fernando,85.72,Female
+Rivera,Carlos,77898,Public,Engineering,Vigan,86.48,Male
+Rivera,Maria,56368,Private,Finance,Batac,86.93,Female
+Flores,Ana,49133,Public,Finance,Tagudin,87.02,Male
+Reyes,Juan,91127,Private,Computer Science,Vigan,87.62,Female
+Santos,Pedro,72636,Public,Literature,Narvacan,96.68,Female
+Rivera,Jose,45517,Private,Biology,Baguio,98.37,Male
+Torres,Luisa,65758,Public,Psychology,Baguio,95.71,Female
+Mendoza,Juan,38467,Private,Finance,Batac,88.57,Female
+Flores,Luisa,60118,Public,Economics,Batac,99.08,Female
+Mendoza,Juan,69688,Private,Economics,Baguio,85.97,Female
+Rivera,Jose,72347,Public,Biology,San Fernando,85.44,Male
+Cruz,Miguel,87330,Private,Computer Science,Tagudin,99.15,Male
+Reyes,Juan,58819,Public,Psychology,Narvacan,86.71,Male
+Mendoza,Miguel,35763,Private,Finance,Cervantes,97.39,Female
+Rivera,Miguel,32518,Public,Computer Science,Tagudin,93.47,Female
+Rivera,Rosa,65568,Private,Literature,Batac,96.36,Female
+Reyes,Pedro,34108,Public,Sociology,Cervantes,98.37,Male
+Cruz,Rosa,84501,Private,Engineering,Cervantes,90.76,Male
+Rivera,Maria,66047,Public,Engineering,Santa,94.45,Female
+Lopez,Juan,31380,Private,Computer Science,San Fernando,98.34,Male
+Flores,Rosa,81732,Public,Economics,San Fernando,92.55,Male
+Gonzales,Miguel,52812,Private,Psychology,Candon,89.76,Female
+Gonzales,Juan,35129,Public,Economics,Candon,98.56,Male
+Cruz,Juan,38644,Private,Psychology,Candon,99.08,Male
+Gonzales,Luisa,55717,Public,Engineering,Santa,89.39,Female
+Gonzales,Jose,81366,Private,Finance,Tagudin,89,Female
+Garcia,Rosa,87696,Public,Engineering,Santa,99.83,Female
+Torres,Maria,81328,Private,Finance,Cervantes,98.47,Male
+Flores,Maria,87404,Public,Economics,Baguio,88.08,Male
+Garcia,Juan,48944,Private,Literature,San Fernando,85.23,Female
+Santos,Ana,36586,Public,Psychology,Batac,98.74,Male
+Reyes,Juan,95756,Private,Sociology,Laoag,95.64,Male
+Reyes,Ana,93481,Public,Biology,Tagudin,91.6,Male
+Cruz,Ana,49512,Private,Engineering,Laoag,91.51,Female
+Mendoza,Juan,91342,Public,Psychology,Tagudin,88.91,Female
+Cruz,Pedro,49811,Private,Biology,Narvacan,97.49,Female
+Garcia,Luisa,40650,Public,Biology,Batac,86.6,Male
+Lopez,Miguel,94904,Private,Sociology,Tagudin,90.18,Female
+Cruz,Elena,73070,Public,Economics,Laoag,88.89,Female
+Garcia,Pedro,58773,Private,Literature,Baguio,93.81,Female
+Gonzales,Carlos,93490,Public,Engineering,Laoag,95.97,Female
+Rivera,Elena,51073,Private,Finance,San Fernando,92.11,Female
+Santos,Jose,66546,Public,Literature,Tagudin,89.18,Male
+Cruz,Luisa,69398,Private,Accountancy,Santa,88.15,Male
+Gonzales,Luisa,44232,Public,Accountancy,Candon,93.83,Female
+Lopez,Elena,52548,Private,Literature,Narvacan,92.87,Male
+Lopez,Jose,93226,Public,Literature,Narvacan,95.13,Male
+Rivera,Pedro,86993,Private,Accountancy,Batac,88.1,Male
+Reyes,Ana,68027,Public,History,Batac,97.75,Male
+Lopez,Jose,59470,Private,Literature,Narvacan,98.02,Female
+Santos,Ana,33966,Public,Accountancy,Narvacan,97.78,Male
+Flores,Rosa,99313,Private,Computer Science,Tagudin,87.43,Male
+Flores,Pedro,43424,Public,Economics,Laoag,91.61,Male
+Mendoza,Rosa,41405,Private,History,Candon,87.09,Male
+Garcia,Elena,70302,Public,Literature,Cervantes,92.84,Female
+Cruz,Maria,50232,Private,Literature,Candon,95.91,Female
+Cruz,Maria,63311,Public,History,Tagudin,99.8,Male
+Reyes,Miguel,59491,Private,History,San Fernando,94.22,Female
+Cruz,Pedro,69805,Public,Sociology,Baguio,85.58,Female
+Flores,Luisa,68163,Private,Economics,Vigan,91.23,Female
+Mendoza,Maria,38960,Public,Biology,San Fernando,87.43,Female
+Torres,Elena,44134,Private,Accountancy,Cervantes,87.85,Male
+Reyes,Jose,64460,Public,Sociology,San Fernando,87.49,Male
+Reyes,Rosa,48325,Private,Accountancy,Vigan,87.67,Male
+Flores,Rosa,80152,Public,Accountancy,Santa,96.7,Female
+Gonzales,Miguel,82551,Private,Economics,Santa,97.66,Female
+Flores,Carlos,82866,Public,Biology,Cervantes,98.32,Female
+Flores,Luisa,72783,Private,Literature,Narvacan,97.31,Male
+Torres,Maria,75007,Public,Literature,Vigan,90.99,Female
+Lopez,Elena,61132,Private,Literature,Cervantes,99.88,Male
+Mendoza,Jose,45725,Public,History,Candon,95.39,Female
+Flores,Miguel,90029,Private,Finance,Laoag,98.2,Male
+Garcia,Elena,50021,Public,Accountancy,Baguio,89.86,Male
+Santos,Luisa,41080,Private,Sociology,Baguio,90.13,Female
+Cruz,Maria,85639,Public,Finance,Cervantes,87.66,Male
+Lopez,Carlos,62000,Private,Engineering,Laoag,86.53,Female
+Santos,Ana,71960,Public,History,Narvacan,85.78,Female
+Santos,Elena,87214,Private,Economics,San Fernando,87.74,Female
+Mendoza,Jose,71528,Public,Finance,Cervantes,90.8,Male
+Rivera,Luisa,65609,Private,History,Laoag,98.66,Male
+Santos,Ana,38129,Public,Sociology,San Fernando,85.44,Male
+Gonzales,Juan,83629,Private,Accountancy,Tagudin,98.31,Female
+Santos,Juan,68553,Public,Engineering,Santa,94.79,Male
+Santos,Juan,92562,Private,History,Santa,97.5,Female
+Lopez,Ana,42754,Public,Literature,Batac,87.86,Male
+Flores,Luisa,53145,Private,Biology,Candon,86.81,Female
+Gonzales,Miguel,83161,Public,Biology,Candon,93.27,Male
+Flores,Elena,42984,Private,Finance,Laoag,93.85,Female
+Garcia,Pedro,36197,Public,Accountancy,Laoag,88.74,Female
+Rivera,Maria,37896,Private,Literature,Santa,85.06,Male
+Garcia,Luisa,46034,Public,Finance,Vigan,93.91,Male
+Reyes,Elena,52764,Private,History,Tagudin,95.11,Male
+Torres,Carlos,72898,Public,Sociology,Laoag,88.57,Female
+Cruz,Miguel,39778,Private,Literature,Vigan,91.27,Female
+Cruz,Juan,32014,Public,History,Batac,88.3,Male
+Lopez,Elena,33116,Private,Finance,Candon,85.68,Female
+Cruz,Pedro,41688,Public,Literature,Tagudin,94.8,Male
+Cruz,Ana,58166,Private,Biology,Vigan,91.37,Female
+Cruz,Carlos,95959,Public,Biology,Candon,98.51,Male
+Gonzales,Jose,32594,Private,Engineering,Candon,95.63,Male
+Cruz,Pedro,39782,Public,Finance,Tagudin,93.8,Female
+Garcia,Juan,72914,Private,Biology,Narvacan,99.37,Male
+Rivera,Carlos,97215,Public,Finance,Santa,91.7,Female
+Torres,Rosa,81219,Private,Engineering,Laoag,91.96,Female
+Cruz,Luisa,94889,Public,Psychology,San Fernando,86.09,Female
+Garcia,Pedro,85143,Private,Biology,San Fernando,85.91,Female
+Cruz,Miguel,53175,Public,Sociology,Santa,87.03,Male
+Garcia,Jose,35340,Private,Computer Science,Laoag,95.97,Female
+Flores,Maria,37703,Public,Engineering,Narvacan,93.23,Female
+Torres,Ana,51806,Private,Accountancy,Batac,86.59,Female
+Flores,Pedro,52764,Public,Biology,Narvacan,96.83,Female
+Garcia,Jose,63235,Private,Literature,Santa,95.11,Male
+Garcia,Ana,70929,Public,Literature,Vigan,98.73,Male
+Reyes,Juan,96122,Private,Literature,Laoag,89.94,Male
+Reyes,Maria,51464,Public,Accountancy,Batac,98.53,Male
+Garcia,Jose,42097,Private,Psychology,Batac,97.04,Female
+Rivera,Miguel,90041,Public,Accountancy,Batac,97.52,Female
+Lopez,Rosa,67522,Private,Literature,Narvacan,92.74,Female
+Rivera,Ana,48230,Public,Economics,Candon,97.27,Male
+Mendoza,Juan,70186,Private,Sociology,Baguio,88.67,Female
+Gonzales,Pedro,69902,Public,History,Narvacan,94.4,Female
+Cruz,Pedro,54478,Private,Finance,Tagudin,95.05,Female
+Gonzales,Juan,36278,Public,Literature,Candon,93.42,Female
+Garcia,Elena,35695,Private,Finance,Santa,92.61,Male
+Cruz,Miguel,89598,Public,Sociology,Batac,96.18,Male
+Rivera,Elena,75850,Private,Finance,Batac,85.06,Male
+Lopez,Rosa,55772,Public,History,Baguio,97.77,Male
+Mendoza,Carlos,50571,Private,Engineering,Tagudin,90.34,Male
+Lopez,Ana,41402,Public,History,Vigan,91.43,Male
+Lopez,Jose,42619,Private,Accountancy,Tagudin,85.8,Female
+Torres,Rosa,49026,Public,Biology,Laoag,87.88,Female
+Gonzales,Rosa,75924,Private,Economics,Narvacan,97.26,Male
+Torres,Carlos,30829,Public,Economics,San Fernando,85.42,Female
+Garcia,Rosa,78777,Private,Accountancy,Baguio,98.68,Male
+Lopez,Jose,57439,Public,Sociology,Candon,97.34,Male
+Garcia,Luisa,79083,Private,History,Santa,89.57,Female
+Cruz,Ana,85674,Public,Finance,Batac,87.19,Male
+Cruz,Pedro,40268,Private,Finance,Batac,87,Female
+Santos,Ana,59681,Public,Biology,Batac,86.27,Female
+Santos,Carlos,44955,Private,Literature,Narvacan,85.63,Male
+Santos,Elena,59870,Public,Biology,Cervantes,85.31,Male
+Santos,Rosa,73336,Private,Economics,Batac,91.99,Female
+Santos,Ana,75686,Public,Finance,San Fernando,92.16,Male
+Torres,Maria,43113,Private,Biology,Candon,98.79,Female
+Gonzales,Ana,81765,Public,Accountancy,Baguio,90.35,Male
+Flores,Miguel,96686,Private,Literature,Narvacan,95.17,Male
+Reyes,Jose,75970,Public,History,Candon,87.72,Female
+Lopez,Jose,61336,Private,Sociology,Batac,93.62,Male
+Reyes,Rosa,61107,Public,Computer Science,Baguio,90.56,Male
+Santos,Luisa,58951,Private,History,Vigan,91.86,Female
+Torres,Rosa,42766,Public,Literature,Santa,96.4,Female
+Cruz,Ana,36759,Private,History,Laoag,88.78,Female
+Torres,Ana,80705,Public,Literature,Santa,98.62,Female
+Santos,Luisa,55489,Private,Sociology,Baguio,97.26,Male
+Garcia,Maria,93408,Public,Economics,Batac,95.61,Female
+Lopez,Elena,53717,Private,Literature,Santa,96.25,Female
+Santos,Elena,98570,Public,Computer Science,San Fernando,85.33,Male
+Santos,Jose,94932,Private,Computer Science,Baguio,91.56,Female
+Cruz,Maria,42666,Public,Finance,Tagudin,96.3,Male
+Flores,Jose,38108,Private,Sociology,Batac,85.09,Female
+Santos,Rosa,57401,Public,Accountancy,Tagudin,85.72,Male
+Garcia,Juan,33832,Private,Psychology,Laoag,92.17,Female
+Garcia,Miguel,38215,Public,Finance,Tagudin,95.75,Female
+Torres,Maria,90902,Private,Finance,Laoag,94.16,Female
+Mendoza,Luisa,72347,Public,Computer Science,San Fernando,92.34,Female
+Torres,Ana,81903,Private,Engineering,Vigan,87.65,Female
+Cruz,Rosa,94181,Public,Finance,Baguio,85.69,Female
+Rivera,Miguel,62105,Private,Biology,Vigan,90.41,Male
+Cruz,Ana,90360,Public,Sociology,Baguio,96.79,Male
+Mendoza,Carlos,69383,Private,Biology,Vigan,99.83,Female
+Gonzales,Rosa,96182,Public,Biology,Tagudin,96.88,Male
+Santos,Miguel,52483,Private,Sociology,Batac,86.79,Female
+Garcia,Pedro,92222,Public,Economics,Santa,87.03,Female
+Lopez,Jose,34142,Private,Accountancy,Vigan,93.23,Male
+Gonzales,Carlos,35885,Public,History,Baguio,89.94,Female
+Garcia,Rosa,39710,Private,Sociology,Narvacan,94.46,Male
+Lopez,Juan,75406,Public,Psychology,Laoag,95.05,Male
+Rivera,Juan,53816,Private,Finance,Narvacan,94.9,Male
+Cruz,Miguel,78380,Public,Sociology,Candon,99.81,Male
+Santos,Elena,43981,Private,Economics,Candon,94.63,Male
+Cruz,Rosa,48452,Public,History,Baguio,86.94,Male
+Garcia,Elena,52391,Private,Literature,Vigan,92.59,Female
+Cruz,Miguel,76666,Public,Finance,Cervantes,91.18,Male
+Santos,Elena,70422,Private,Biology,Candon,88.36,Female
+Garcia,Elena,66734,Public,Biology,Vigan,94.17,Female
+Reyes,Maria,65842,Private,History,Cervantes,93.71,Female
+Gonzales,Carlos,50587,Public,Literature,Candon,90.28,Female
+Torres,Rosa,97896,Private,Finance,Batac,90.69,Female
+Mendoza,Juan,89608,Public,Engineering,Santa,95.06,Male
+Rivera,Miguel,39197,Private,Literature,Santa,91.85,Female
+Torres,Ana,46717,Public,Sociology,Vigan,95.22,Female
+Cruz,Elena,67915,Private,Psychology,Vigan,87.7,Male
+Gonzales,Maria,71351,Public,Engineering,Laoag,87.01,Female
+Rivera,Carlos,41854,Private,Sociology,Candon,89.39,Male
+Rivera,Carlos,89886,Public,Accountancy,Baguio,85.58,Male
+Garcia,Miguel,76795,Private,Computer Science,Narvacan,87.69,Female
+Lopez,Carlos,41864,Public,Literature,San Fernando,99.8,Male
+Garcia,Luisa,46110,Private,Accountancy,Candon,97.34,Male
+Flores,Pedro,99518,Public,Accountancy,San Fernando,89.81,Male
+Flores,Ana,54557,Private,Engineering,Cervantes,91.25,Male
+Gonzales,Elena,67538,Public,Computer Science,Candon,89.67,Male
+Gonzales,Miguel,80351,Private,Economics,Candon,90.31,Female
+Garcia,Ana,34302,Public,Accountancy,San Fernando,90.37,Male
+Reyes,Rosa,41562,Private,Engineering,Laoag,88.71,Female
+Mendoza,Miguel,46680,Public,Economics,Santa,91.85,Female
+Gonzales,Carlos,95295,Private,Computer Science,Candon,88.17,Female
+Lopez,Maria,85828,Public,History,Santa,95.19,Female
+Reyes,Miguel,92975,Private,Economics,Vigan,97.72,Female
+Mendoza,Rosa,51173,Public,Literature,Baguio,95.8,Female
+Garcia,Maria,67292,Private,Literature,Candon,86.83,Male
+Torres,Luisa,38946,Public,Biology,Narvacan,95.1,Female
+Gonzales,Luisa,82816,Private,Biology,Narvacan,88.78,Male
+Torres,Luisa,77761,Public,Literature,Narvacan,95.99,Male
+Santos,Rosa,52699,Private,Biology,Cervantes,99.27,Female
+Garcia,Juan,59043,Public,Economics,Vigan,92.84,Female
+Cruz,Jose,71008,Private,History,Candon,88.44,Male
+Lopez,Miguel,35184,Public,Economics,Candon,93.58,Female
+Lopez,Elena,49265,Private,Finance,San Fernando,91.69,Female
+Garcia,Rosa,69102,Public,History,Batac,89.74,Male
+Torres,Maria,58671,Private,Engineering,Laoag,85.88,Female
+Reyes,Ana,60077,Public,Psychology,Laoag,87.35,Female
+Mendoza,Elena,58175,Private,History,Santa,85.56,Female
+Torres,Elena,59045,Public,Literature,Batac,94.29,Female
+Torres,Luisa,30771,Private,History,Batac,85.41,Male
+Torres,Miguel,75865,Public,Psychology,Cervantes,90.71,Female
+Mendoza,Rosa,38088,Private,Computer Science,Vigan,85.42,Male
+Garcia,Maria,52922,Public,Psychology,Santa,98.1,Female
+Lopez,Elena,81944,Private,Psychology,Cervantes,86.61,Male
+Reyes,Elena,85743,Public,Biology,Candon,88.99,Male
+Reyes,Juan,42366,Private,Economics,Laoag,96.7,Male
+Torres,Ana,99228,Public,Finance,Candon,97.78,Male
+Mendoza,Maria,81433,Private,Biology,Santa,86.81,Male
+Gonzales,Jose,49482,Public,Biology,Santa,96.2,Male
+Flores,Jose,80881,Private,Literature,Vigan,99.11,Male
+Rivera,Pedro,93250,Public,Accountancy,Narvacan,86.31,Female
+Gonzales,Ana,88714,Private,Computer Science,San Fernando,96.08,Male
+Lopez,Luisa,84206,Public,Biology,Cervantes,98.38,Female
+Rivera,Maria,96412,Private,Engineering,San Fernando,94.62,Female
+Gonzales,Ana,36262,Public,Economics,Laoag,85.04,Female
+Mendoza,Pedro,92255,Private,Engineering,Candon,92.96,Male
+Santos,Rosa,73931,Public,Finance,Candon,98.93,Male
+Garcia,Rosa,48333,Private,Biology,Batac,92.26,Female
+Garcia,Maria,80893,Public,Biology,Laoag,85.68,Male
+Torres,Pedro,60425,Private,Finance,Laoag,86.84,Female
+Garcia,Maria,78906,Public,Engineering,Candon,92.26,Female
+Garcia,Carlos,43356,Private,Literature,Tagudin,89.28,Female
+Cruz,Carlos,71607,Public,Psychology,Tagudin,87.23,Female
+Rivera,Luisa,40595,Private,History,Cervantes,88.04,Male
+Cruz,Carlos,96460,Public,Biology,Tagudin,90.42,Male
+Lopez,Luisa,73700,Private,Sociology,Baguio,93.23,Female
+Flores,Carlos,94928,Public,Economics,Santa,87.82,Female
+Mendoza,Luisa,46130,Private,History,Batac,93.17,Male
+Torres,Jose,87120,Public,Sociology,Laoag,95.86,Male
+Cruz,Miguel,34862,Private,Engineering,Santa,88.56,Male
+Garcia,Miguel,61017,Public,Literature,Candon,95.27,Male
+Cruz,Carlos,98945,Private,Psychology,Candon,90.89,Female
+Reyes,Rosa,36691,Public,Biology,San Fernando,94.83,Male
+Flores,Carlos,59372,Private,Sociology,Laoag,93.88,Male
+Garcia,Elena,97499,Public,History,Vigan,90.99,Male
+Gonzales,Carlos,45974,Private,Literature,Baguio,89.2,Female
+Garcia,Luisa,38792,Public,Economics,Laoag,87.54,Male
+Reyes,Carlos,55716,Private,Engineering,Batac,85.24,Female
+Reyes,Pedro,30013,Public,Literature,Baguio,91.11,Female
+Santos,Jose,80297,Private,Biology,Baguio,85.82,Female
+Lopez,Juan,70511,Public,Psychology,Baguio,96.85,Female
+Rivera,Juan,89139,Private,Psychology,Vigan,87.06,Male
+Santos,Rosa,82648,Public,Biology,Cervantes,90.92,Female
+Garcia,Rosa,51955,Private,Engineering,Laoag,89.2,Male
+Mendoza,Elena,45084,Public,Psychology,San Fernando,95.3,Female
+Gonzales,Pedro,62516,Private,Accountancy,Cervantes,89.8,Male
+Flores,Jose,70525,Public,Accountancy,Vigan,87.11,Female
+Flores,Ana,45534,Private,Accountancy,Santa,85.94,Male
+Mendoza,Pedro,31690,Public,Sociology,Batac,96.02,Male
+Reyes,Luisa,76188,Private,Computer Science,Baguio,86.68,Male
+Mendoza,Pedro,38953,Public,History,Cervantes,89.08,Male
+Garcia,Pedro,41462,Private,History,Cervantes,90.2,Male
+Flores,Ana,87193,Public,Finance,Narvacan,95.45,Female
+Torres,Luisa,49825,Private,Accountancy,Narvacan,87.78,Female
+Lopez,Maria,95714,Public,Literature,Vigan,99.44,Male
+Mendoza,Juan,91930,Private,Engineering,Baguio,89.03,Male
+Rivera,Maria,87180,Public,Economics,Narvacan,99.82,Male
+Cruz,Maria,74533,Private,Finance,Narvacan,91.55,Male
+Rivera,Elena,90759,Public,Sociology,Cervantes,98.47,Male
+Mendoza,Ana,32898,Private,Accountancy,Candon,91.28,Female
+Gonzales,Juan,40094,Public,Literature,Batac,91.65,Female
+Mendoza,Pedro,50504,Private,Psychology,San Fernando,96.97,Female
+Flores,Juan,52144,Public,Finance,Vigan,86.3,Female
+Flores,Ana,48567,Private,Finance,Laoag,94.11,Female
+Reyes,Luisa,42532,Public,History,Santa,89.72,Female
+Santos,Pedro,87462,Private,Sociology,Vigan,88.36,Male
+Lopez,Luisa,59193,Public,Accountancy,Baguio,86.49,Female
+Rivera,Juan,39914,Private,Engineering,Vigan,98.36,Female
+Santos,Rosa,53737,Public,Computer Science,San Fernando,92.37,Male
+Santos,Rosa,51114,Private,Literature,Laoag,91.3,Female
+Mendoza,Carlos,67531,Public,Finance,Tagudin,96.22,Female
+Reyes,Pedro,30359,Private,Accountancy,Candon,93.2,Female
+Garcia,Pedro,45822,Public,Finance,Laoag,90.35,Male
+Lopez,Jose,89704,Private,History,Candon,94.64,Female
+Reyes,Carlos,35947,Public,Psychology,Vigan,93.53,Male
+Gonzales,Miguel,99430,Private,Literature,Baguio,89.23,Female
+Garcia,Pedro,38347,Public,Biology,San Fernando,86.93,Male
+Gonzales,Maria,64907,Private,Accountancy,Santa,87.94,Male
+Lopez,Elena,69874,Public,Engineering,Vigan,98.51,Female
+Lopez,Maria,78424,Private,History,Santa,96.59,Male
+Santos,Luisa,80011,Public,Computer Science,Santa,91.59,Female
+Rivera,Jose,89116,Private,Psychology,Candon,90.67,Male
+Cruz,Elena,32899,Public,Biology,Laoag,86.84,Female
+Reyes,Jose,76598,Private,Finance,Vigan,94.8,Female
+Gonzales,Carlos,85813,Public,Literature,Tagudin,85.37,Male
+Gonzales,Carlos,30418,Private,Engineering,Narvacan,87.68,Female
+Flores,Miguel,65006,Public,Finance,Vigan,98.94,Male
+Lopez,Rosa,33826,Private,Finance,Candon,99.81,Female
+Flores,Ana,45149,Public,Literature,Cervantes,89.54,Male
+Rivera,Maria,36225,Private,Finance,Baguio,85.62,Female
+Lopez,Juan,50470,Public,Finance,Candon,86.9,Female
+Cruz,Juan,67988,Private,Psychology,Candon,85.72,Male
+Lopez,Maria,82628,Public,Sociology,Narvacan,99.46,Female
+Lopez,Maria,76211,Private,Sociology,Tagudin,93.86,Female
+Torres,Miguel,76178,Public,Computer Science,Santa,92.01,Female
+Garcia,Rosa,72826,Private,Computer Science,Cervantes,93.79,Female
+Garcia,Carlos,48283,Public,Sociology,Santa,91.88,Female
+Mendoza,Pedro,65730,Private,Computer Science,Baguio,89.52,Female
+Rivera,Juan,65140,Public,Psychology,Baguio,90.65,Male
+Torres,Luisa,81671,Private,Accountancy,Laoag,89.93,Male
+Gonzales,Pedro,84362,Public,Economics,Tagudin,99.39,Male
+Santos,Luisa,89569,Private,Accountancy,Laoag,91,Male
+Lopez,Miguel,65101,Public,Finance,Santa,99.48,Female
+Garcia,Luisa,93302,Private,Finance,Cervantes,95.27,Male
+Cruz,Rosa,80837,Public,Sociology,Vigan,86.49,Female
+Gonzales,Pedro,37887,Private,Psychology,Laoag,88.79,Male
+Reyes,Elena,31777,Public,Engineering,Tagudin,92.35,Female
+Lopez,Maria,94975,Private,History,Candon,92.67,Female
+Gonzales,Pedro,44027,Public,History,Batac,96.72,Male
+Cruz,Maria,73362,Private,Literature,Laoag,95.15,Male
+Reyes,Maria,49817,Public,Computer Science,Tagudin,91.81,Female
+Lopez,Maria,38618,Private,Biology,San Fernando,89.68,Male
+Reyes,Pedro,54679,Public,Computer Science,Batac,92.1,Male
+Cruz,Ana,90908,Private,Accountancy,Batac,97.73,Female
+Cruz,Jose,32849,Public,Psychology,Cervantes,89.91,Male
+Cruz,Ana,87751,Private,Finance,Baguio,99.41,Female
+Reyes,Rosa,51132,Public,History,Laoag,96.36,Male
+Santos,Elena,50623,Private,History,Narvacan,86.69,Female
+Flores,Juan,97687,Public,Literature,Candon,91.52,Male
+Torres,Luisa,93811,Private,Literature,Santa,88.65,Male
+Lopez,Jose,82238,Public,Engineering,Narvacan,96.27,Female
+Mendoza,Ana,68801,Private,Literature,San Fernando,87.78,Female
+Garcia,Ana,76157,Public,Biology,Cervantes,87.68,Female
+Santos,Carlos,40082,Private,Engineering,Laoag,89.05,Male
+Torres,Rosa,86116,Public,Biology,Baguio,87.09,Female
+Flores,Maria,44499,Private,Sociology,Tagudin,87.08,Male
+Flores,Luisa,80665,Public,Biology,Laoag,93.6,Male
+Gonzales,Miguel,85288,Private,Psychology,Laoag,95.48,Female
+Lopez,Elena,46321,Public,Biology,Candon,90.08,Female
+Cruz,Carlos,95892,Private,Sociology,Laoag,95.14,Female
+Rivera,Pedro,86550,Public,Finance,Tagudin,85.19,Male
+Gonzales,Elena,39733,Private,Psychology,Cervantes,93.19,Male
+Cruz,Rosa,46711,Public,Engineering,Santa,90.8,Female
+Reyes,Ana,77006,Private,Accountancy,Vigan,85.95,Female
+Gonzales,Elena,71519,Public,Literature,San Fernando,96.16,Male
+Gonzales,Rosa,48169,Private,History,Cervantes,85.19,Female
+Reyes,Juan,49186,Public,History,Laoag,97.54,Female
+Reyes,Pedro,73786,Private,Biology,Vigan,88.68,Male
+Flores,Pedro,93120,Public,Accountancy,San Fernando,88.62,Male
+Santos,Ana,39851,Private,Psychology,Cervantes,85.46,Male
+Flores,Maria,79637,Public,Economics,Vigan,94.6,Female
+Mendoza,Miguel,34929,Private,History,San Fernando,92.57,Male
+Reyes,Carlos,45892,Public,Finance,Vigan,99.8,Male
+Reyes,Ana,72772,Private,Computer Science,Santa,91.98,Male
+Santos,Miguel,52050,Public,Literature,Santa,87.24,Male
+Rivera,Maria,54141,Private,Biology,Tagudin,86.59,Male
+Gonzales,Jose,93401,Public,Literature,Baguio,94.99,Female
+Rivera,Carlos,81829,Private,History,Candon,94.01,Male
+Flores,Maria,99835,Public,Engineering,Narvacan,90.35,Female
+Rivera,Carlos,75310,Private,Psychology,Batac,97.38,Female
+Santos,Jose,63111,Public,Psychology,Baguio,97.93,Female
+Cruz,Jose,46279,Private,Economics,Candon,92.17,Female
+Santos,Juan,37836,Public,History,Candon,96.37,Male
+Garcia,Ana,76685,Private,Psychology,San Fernando,86.55,Female
+Mendoza,Maria,51069,Public,Finance,Tagudin,86.1,Female
+Flores,Rosa,76193,Private,Computer Science,Baguio,96.12,Female
+Santos,Luisa,87692,Public,Biology,Narvacan,97.57,Female
+Reyes,Pedro,83424,Private,Accountancy,Baguio,94.69,Male
+Gonzales,Maria,88513,Public,Sociology,Santa,94.77,Female
+Reyes,Pedro,79254,Private,Accountancy,Candon,91.02,Female
+Mendoza,Juan,30872,Public,Accountancy,Narvacan,98.14,Male
+Cruz,Carlos,65163,Private,Biology,Candon,95.23,Female
+Rivera,Miguel,65318,Public,Sociology,Santa,95.07,Female
+Santos,Miguel,58248,Private,Accountancy,Cervantes,99.49,Female
+Garcia,Maria,61961,Public,Psychology,Narvacan,95.62,Female
+Mendoza,Ana,38465,Private,History,Batac,97.39,Male
+Cruz,Jose,33849,Public,Engineering,Cervantes,97.75,Male
+Lopez,Juan,67855,Private,Accountancy,Batac,97.1,Male
+Garcia,Ana,80915,Public,Accountancy,San Fernando,93.12,Male
+Mendoza,Luisa,88091,Private,Sociology,Santa,95.55,Male
+Flores,Ana,58253,Public,Computer Science,Candon,98.17,Male
+Gonzales,Juan,62716,Private,Economics,San Fernando,97.38,Male
+Cruz,Pedro,33031,Public,Literature,Santa,99.24,Female
+Reyes,Ana,97130,Private,Engineering,Batac,87.77,Female
+Cruz,Juan,62918,Public,Sociology,Baguio,94.14,Male
+Lopez,Elena,34678,Private,Engineering,Narvacan,92.27,Male
+Lopez,Luisa,57416,Public,Sociology,Candon,89.04,Male
+Lopez,Maria,91096,Private,History,Narvacan,85.23,Male
+Gonzales,Elena,52639,Public,Finance,San Fernando,99.25,Male
+Cruz,Ana,97859,Private,History,Batac,85.85,Male
+Gonzales,Miguel,79601,Public,Psychology,Narvacan,90.77,Male
+Cruz,Pedro,71716,Private,Literature,San Fernando,97.51,Female
+Lopez,Miguel,53152,Public,Accountancy,Narvacan,97.25,Female
+Cruz,Maria,41752,Private,Sociology,Baguio,94.34,Male
+Cruz,Miguel,68184,Public,Economics,Tagudin,92.78,Female
+Reyes,Juan,75191,Private,Computer Science,San Fernando,96.34,Female
+Gonzales,Juan,58912,Public,Computer Science,Narvacan,99.42,Female
+Lopez,Jose,59694,Private,History,Santa,95.95,Female
+Torres,Jose,90438,Public,Accountancy,Candon,88.45,Female
+Torres,Jose,86128,Private,Biology,Vigan,88.62,Female
+Flores,Luisa,30594,Public,Economics,Batac,96.71,Female
+Gonzales,Elena,86089,Private,Accountancy,Cervantes,97.73,Female
+Rivera,Juan,42084,Public,Literature,Vigan,95.85,Female
+Flores,Juan,45411,Private,Accountancy,Baguio,94.57,Male
+Rivera,Jose,73969,Public,Sociology,Narvacan,90.57,Female
+Santos,Miguel,72730,Private,Engineering,Batac,95.02,Male
+Torres,Rosa,84082,Public,Accountancy,Vigan,91.56,Male
+Garcia,Pedro,76542,Private,Literature,Baguio,99.42,Male
+Torres,Luisa,87303,Public,Accountancy,Tagudin,99.23,Female
+Santos,Carlos,53944,Private,History,Vigan,91.45,Female
+Mendoza,Juan,46528,Public,Psychology,San Fernando,96.9,Male
+Rivera,Maria,68961,Private,Literature,Narvacan,94.89,Female
+Flores,Maria,49276,Public,Computer Science,Narvacan,93.51,Male
+Reyes,Juan,78667,Private,Engineering,Cervantes,90.93,Male
+Torres,Maria,61781,Public,Computer Science,Batac,85.47,Male
+Lopez,Ana,34355,Private,Finance,Santa,91.21,Female
+Cruz,Jose,74543,Public,Finance,Tagudin,88.17,Male
+Rivera,Miguel,49481,Private,History,Batac,88.46,Female
+Torres,Pedro,38655,Public,Biology,Candon,88,Female
+Santos,Luisa,94587,Private,Economics,Baguio,93.64,Female
+Reyes,Rosa,41380,Public,Economics,Batac,96.25,Male
+Reyes,Rosa,79994,Private,Computer Science,Batac,94,Female
+Cruz,Elena,85043,Public,Literature,Tagudin,94.55,Female
+Gonzales,Luisa,88698,Private,Engineering,Vigan,97.82,Female
+Lopez,Carlos,63521,Public,Finance,Tagudin,97.55,Female
+Lopez,Elena,59162,Private,Sociology,Laoag,90.98,Male
+Gonzales,Maria,90899,Public,Finance,San Fernando,87.9,Male
+Lopez,Elena,85883,Private,Psychology,Santa,90.25,Male
+Torres,Miguel,51636,Public,Biology,Batac,91.12,Female
+Gonzales,Rosa,47093,Private,Sociology,Cervantes,89.31,Male
+Garcia,Miguel,86222,Public,Psychology,Cervantes,89.61,Female
+Santos,Ana,98839,Private,Literature,Vigan,96.42,Female
+Reyes,Luisa,40754,Public,History,Laoag,91.54,Female
+Cruz,Luisa,76876,Private,Computer Science,Santa,98.37,Female
+Torres,Rosa,68479,Public,Engineering,Baguio,99.02,Male
+Lopez,Juan,64633,Private,History,Vigan,90.77,Female
+Garcia,Elena,66576,Public,Accountancy,San Fernando,94.89,Female
+Gonzales,Pedro,74219,Private,Sociology,Cervantes,97.54,Female
+Lopez,Miguel,99505,Public,Computer Science,Narvacan,91.8,Female
+Lopez,Carlos,58619,Private,Engineering,Tagudin,97.22,Female
+Lopez,Rosa,36675,Public,History,Santa,90.14,Female
+Rivera,Carlos,94628,Private,History,Candon,91.66,Male
+Flores,Miguel,90329,Public,Economics,Tagudin,96.67,Male
+Gonzales,Pedro,41785,Private,Computer Science,Batac,97,Female
+Gonzales,Ana,36933,Public,Economics,San Fernando,96.41,Female
+Torres,Carlos,76886,Private,Biology,Cervantes,91.71,Male
+Cruz,Jose,39685,Public,Sociology,Narvacan,91.73,Male
+Gonzales,Ana,69590,Private,Finance,Narvacan,94.75,Female
+Cruz,Luisa,36775,Public,Finance,Batac,86.95,Female
+Torres,Juan,88511,Private,Engineering,Tagudin,99.8,Female
+Gonzales,Jose,44016,Public,Psychology,San Fernando,98.13,Female
+Lopez,Ana,57967,Private,Computer Science,Cervantes,97.2,Male
+Lopez,Jose,31112,Public,Literature,Laoag,99.03,Female
+Lopez,Rosa,77212,Private,Literature,Laoag,99.21,Female
+Santos,Carlos,53025,Public,Computer Science,Candon,91.15,Male
+Lopez,Miguel,74678,Private,Accountancy,Baguio,89.76,Female
+Flores,Carlos,91444,Public,Finance,Cervantes,86.85,Female
+Torres,Elena,55130,Private,Engineering,Candon,99.02,Female
+Reyes,Juan,30203,Public,Engineering,San Fernando,89,Male
+Reyes,Jose,72102,Private,Computer Science,Baguio,94.68,Male
+Reyes,Elena,41992,Public,Engineering,Batac,92.02,Male
+Lopez,Ana,56364,Private,Literature,Batac,87.99,Female
+Mendoza,Juan,69716,Public,Biology,Baguio,87.94,Male
+Gonzales,Jose,76187,Private,Psychology,Tagudin,90.73,Male
+Garcia,Luisa,38831,Public,Economics,Batac,91.78,Male
+Flores,Pedro,71054,Private,Literature,San Fernando,94.2,Male
+Cruz,Carlos,74414,Public,Psychology,Narvacan,98.2,Female
+Garcia,Rosa,96784,Private,Finance,Batac,96.36,Male
+Mendoza,Carlos,48722,Public,History,Baguio,89.08,Female
+Flores,Luisa,64520,Private,Finance,Vigan,87.55,Male
+Flores,Maria,45698,Public,Computer Science,Candon,96.95,Male
+Garcia,Luisa,86689,Private,Economics,Narvacan,91.56,Male
+Flores,Luisa,59710,Public,Computer Science,Baguio,94.23,Female
+Reyes,Pedro,91990,Private,Finance,San Fernando,93,Female
+Reyes,Jose,32070,Public,Engineering,Tagudin,97.37,Male
+Lopez,Rosa,45782,Private,Literature,Tagudin,91.41,Male
+Cruz,Jose,60431,Public,Accountancy,Laoag,93.9,Male
+Gonzales,Luisa,64004,Private,Computer Science,Narvacan,98.5,Female
+Gonzales,Rosa,39254,Public,Economics,Batac,88.74,Female
+Reyes,Jose,45182,Private,Accountancy,San Fernando,87.36,Female
+Flores,Pedro,87517,Public,Computer Science,San Fernando,87.17,Male
+Torres,Carlos,97234,Private,Accountancy,Vigan,92.66,Female
+Reyes,Rosa,54767,Public,Accountancy,Vigan,92.52,Female
+Reyes,Maria,98344,Private,Psychology,Cervantes,99.64,Male
+Rivera,Juan,32500,Public,Literature,Candon,97.93,Male
+Gonzales,Carlos,76097,Private,History,Batac,93.34,Female
+Reyes,Luisa,95228,Public,Sociology,San Fernando,91.26,Male
+Cruz,Maria,73633,Private,Literature,Narvacan,95.51,Male
+Cruz,Jose,78021,Public,Finance,Tagudin,93.19,Male
+Garcia,Rosa,42758,Private,Sociology,Santa,93.1,Male
+Gonzales,Jose,57257,Public,Psychology,San Fernando,94.81,Male
+Mendoza,Pedro,55611,Private,Psychology,Batac,91.73,Male
+Lopez,Pedro,46383,Public,Psychology,Batac,86,Female
+Mendoza,Luisa,39809,Private,Sociology,Candon,91.91,Female
+Mendoza,Ana,72648,Public,Sociology,Narvacan,88.19,Male
+Garcia,Luisa,30039,Private,Engineering,Santa,93.73,Female
+Mendoza,Elena,45650,Public,Biology,Cervantes,88.94,Female
+Flores,Ana,55887,Private,Biology,Laoag,99.13,Male
+Gonzales,Maria,77412,Public,Finance,San Fernando,97.82,Male
+Santos,Luisa,44826,Private,Computer Science,Cervantes,91,Male
+Rivera,Ana,43190,Public,Psychology,San Fernando,99.34,Female
+Garcia,Pedro,96215,Private,Computer Science,Vigan,88.91,Male
+Gonzales,Maria,58661,Public,Psychology,Laoag,99.89,Male
+Mendoza,Rosa,80208,Private,Literature,Laoag,98.5,Female
+Cruz,Carlos,73434,Public,Literature,Laoag,89.37,Male
+Lopez,Luisa,61060,Private,Engineering,Vigan,97.82,Female
+Mendoza,Elena,99562,Public,Economics,Baguio,89.95,Male
+Gonzales,Miguel,72700,Private,Economics,Santa,85.81,Male
+Mendoza,Elena,38031,Public,Computer Science,Santa,85.17,Male
+Mendoza,Ana,74755,Private,Economics,Candon,96.54,Male
+Torres,Juan,62825,Public,Literature,Narvacan,91.05,Male
+Flores,Elena,43773,Private,Literature,Laoag,87.36,Female
+Torres,Juan,44854,Public,History,Cervantes,87.6,Male
+Gonzales,Ana,73020,Private,Biology,Santa,99.12,Male
+Cruz,Juan,64711,Public,Biology,Tagudin,94.48,Female
+Flores,Ana,90555,Private,Economics,San Fernando,95.05,Male
+Santos,Juan,66603,Public,Finance,Vigan,89.38,Female
+Gonzales,Rosa,78020,Private,Accountancy,Narvacan,99.85,Male
+Reyes,Luisa,39987,Public,Sociology,Baguio,86.67,Female
+Gonzales,Miguel,64814,Private,Biology,Narvacan,96.97,Female
+Cruz,Carlos,84715,Public,Computer Science,Laoag,99.54,Female
+Lopez,Elena,97900,Private,Computer Science,Narvacan,90.38,Female
+Garcia,Elena,44332,Public,Literature,Narvacan,95,Male
+Cruz,Rosa,76489,Private,Computer Science,San Fernando,95.22,Male
+Garcia,Jose,86292,Public,History,Vigan,95.27,Male
+Rivera,Luisa,74142,Private,Finance,Tagudin,89.95,Male
+Mendoza,Ana,50047,Public,Economics,Narvacan,91.19,Female
+Cruz,Rosa,83903,Private,Literature,Vigan,89.53,Male
+Lopez,Carlos,61201,Public,Psychology,Tagudin,90.74,Female
+Torres,Rosa,34043,Private,Economics,Batac,93.34,Female
+Gonzales,Maria,42242,Public,Engineering,Santa,96.5,Male
+Lopez,Jose,94062,Private,Finance,Cervantes,85.54,Female
+Rivera,Maria,86193,Public,Biology,Tagudin,91.19,Male
+Cruz,Luisa,73485,Private,History,Candon,98.35,Female
+Torres,Juan,85324,Public,Engineering,San Fernando,95.59,Male
+Garcia,Pedro,56578,Private,Computer Science,Tagudin,99.63,Male
+Gonzales,Pedro,90250,Public,Literature,Batac,92.69,Female
+Garcia,Ana,89725,Private,Sociology,Santa,98.46,Female
+Mendoza,Jose,50600,Public,Economics,Santa,91.05,Female
+Garcia,Rosa,49113,Private,Economics,Vigan,98.15,Male
+Rivera,Juan,81981,Public,Computer Science,Candon,97.22,Female
+Torres,Ana,65874,Private,Biology,Laoag,93.72,Female
+Reyes,Carlos,68497,Public,History,Baguio,97.68,Female
+Santos,Pedro,37707,Private,Biology,Laoag,86.79,Male
+Gonzales,Jose,31744,Public,Finance,Batac,90.99,Female
+Cruz,Jose,91239,Private,Computer Science,Laoag,90.57,Male
+Garcia,Elena,57886,Public,Biology,Batac,94.58,Female
+Gonzales,Luisa,52731,Private,Engineering,Narvacan,92.41,Male
+Rivera,Luisa,31874,Public,Computer Science,Batac,87.25,Male
+Mendoza,Miguel,42598,Private,Literature,San Fernando,99.13,Female
+Torres,Juan,59223,Public,Literature,Tagudin,95.37,Male
+Cruz,Juan,65582,Private,Economics,Cervantes,89.38,Male
+Santos,Luisa,88557,Public,Economics,Batac,94.6,Female
+Santos,Carlos,82765,Private,Economics,Narvacan,96.7,Male
+Gonzales,Carlos,78376,Public,Sociology,San Fernando,93.58,Male
+Lopez,Ana,82893,Private,Accountancy,Santa,88.46,Female
+Flores,Pedro,81339,Public,Engineering,Candon,98.22,Male
+Cruz,Elena,70948,Private,Computer Science,Santa,98.67,Female
+Santos,Maria,78881,Public,Sociology,Cervantes,96.33,Male
+Rivera,Rosa,68331,Private,Literature,San Fernando,96.74,Female
+Garcia,Maria,73676,Public,Economics,Laoag,99.46,Female
+Garcia,Jose,59364,Private,Computer Science,San Fernando,90.11,Female
+Santos,Juan,85224,Public,Computer Science,Tagudin,96.12,Female
+Lopez,Carlos,49211,Private,History,Batac,96.65,Male
+Flores,Carlos,33922,Public,Biology,Tagudin,86.58,Female
+Reyes,Ana,77142,Private,Biology,Narvacan,87.92,Female
+Mendoza,Ana,99450,Public,Engineering,Batac,89.59,Male
+Gonzales,Maria,79240,Private,Finance,Baguio,91.56,Female
+Mendoza,Ana,96904,Public,History,Tagudin,99.65,Female
+Santos,Jose,92696,Private,Economics,Batac,96.2,Male
+Garcia,Luisa,42302,Public,Biology,Candon,85.55,Female
+Cruz,Maria,58756,Private,Psychology,Laoag,95.36,Male
+Cruz,Luisa,45174,Public,Sociology,Batac,96.77,Female
+Flores,Rosa,46694,Private,Biology,Vigan,98.75,Female
+Rivera,Jose,40930,Public,Psychology,Narvacan,94.9,Female
+Flores,Pedro,34603,Private,Psychology,San Fernando,92.69,Male
+Reyes,Pedro,64055,Public,Psychology,Santa,88.49,Male
+Flores,Elena,62346,Private,Engineering,Tagudin,92.65,Female
+Santos,Rosa,92256,Public,Sociology,Cervantes,87.81,Male
+Torres,Ana,74547,Private,Finance,Santa,99.88,Male
+Reyes,Juan,40601,Public,History,Candon,88.21,Female
+Cruz,Carlos,79417,Private,Psychology,Cervantes,96.81,Female
+Gonzales,Rosa,62194,Public,Engineering,Laoag,89.27,Male
+Garcia,Ana,86903,Private,Finance,Batac,88.27,Female
+Cruz,Rosa,53383,Public,Psychology,Cervantes,87.77,Female
+Lopez,Carlos,33025,Private,Accountancy,Tagudin,99.33,Male
+Santos,Jose,57858,Public,Sociology,Baguio,92.78,Female
+Flores,Rosa,53058,Private,Computer Science,Tagudin,95.91,Male
+Cruz,Miguel,82776,Public,History,Batac,93.62,Male
+Santos,Jose,40080,Private,Accountancy,Baguio,98.45,Female
+Garcia,Juan,83264,Public,Accountancy,Vigan,96.48,Male
+Flores,Rosa,76678,Private,Computer Science,Candon,95.68,Female
+Mendoza,Carlos,74512,Public,Sociology,San Fernando,95.47,Female
+Lopez,Elena,87834,Private,Biology,Santa,98.54,Male
+Rivera,Jose,81911,Public,Economics,Laoag,88.14,Female
+Rivera,Ana,67751,Private,Accountancy,Laoag,97.82,Female
+Torres,Elena,77593,Public,Computer Science,Vigan,94.61,Male
+Reyes,Juan,55125,Private,Computer Science,Baguio,96.66,Female
+Santos,Miguel,83542,Public,Economics,Baguio,90.23,Female
+Reyes,Pedro,52957,Private,Accountancy,Laoag,93.47,Female
+Reyes,Juan,73469,Public,Psychology,Santa,94.57,Male
+Rivera,Jose,82617,Private,Finance,Batac,88.17,Male
+Torres,Maria,31287,Public,Psychology,Santa,88.1,Male
+Torres,Carlos,69716,Private,History,Baguio,99.82,Male
+Cruz,Rosa,34776,Public,Sociology,Cervantes,98.58,Male
+Garcia,Elena,75296,Private,Psychology,Candon,94.71,Female
+Torres,Pedro,33823,Public,Engineering,Vigan,97.81,Female
+Torres,Rosa,41042,Private,Finance,Cervantes,95.28,Male
+Santos,Carlos,41441,Public,Sociology,Tagudin,96.1,Male
+Rivera,Carlos,35136,Private,Accountancy,Santa,94.08,Female
+Rivera,Luisa,99896,Public,Engineering,Santa,89.77,Female
+Flores,Pedro,48094,Private,Literature,San Fernando,97.85,Female
+Rivera,Maria,61618,Public,Psychology,Laoag,95.36,Male
+Torres,Rosa,53722,Private,Sociology,Narvacan,91.5,Female
+Santos,Juan,60645,Public,Sociology,Narvacan,94.37,Male
+Cruz,Rosa,59993,Private,Accountancy,Tagudin,97.34,Male
+Garcia,Rosa,69796,Public,Engineering,Vigan,94.64,Male
+Cruz,Maria,34533,Private,Computer Science,Tagudin,94.27,Male
+Mendoza,Luisa,68733,Public,Economics,Santa,86.56,Female
+Garcia,Elena,93782,Private,Accountancy,Vigan,97.13,Female
+Gonzales,Luisa,86090,Public,Psychology,San Fernando,95.93,Male
+Santos,Luisa,72725,Private,History,Candon,96.26,Male
+Cruz,Jose,31532,Public,Finance,Baguio,93.87,Female
+Flores,Elena,69690,Private,Literature,Vigan,98.91,Female
+Mendoza,Miguel,31760,Public,Economics,Narvacan,89.85,Female
+Cruz,Luisa,40066,Private,Accountancy,Tagudin,89.87,Male
+Reyes,Pedro,82233,Public,Computer Science,Tagudin,88.21,Male
+Cruz,Ana,72964,Private,Computer Science,Baguio,87.93,Male
+Gonzales,Ana,89293,Public,Sociology,Santa,95,Male
+Gonzales,Juan,36856,Private,Biology,Batac,94.11,Male
+Garcia,Miguel,56860,Public,Psychology,Laoag,86.91,Male
+Garcia,Pedro,67667,Private,History,Narvacan,87.91,Male
+Torres,Miguel,58886,Public,Economics,Narvacan,88.64,Female
+Cruz,Rosa,90660,Private,Psychology,Laoag,98.01,Female
+Gonzales,Ana,33501,Public,Psychology,Candon,88.63,Female
+Torres,Luisa,65020,Private,History,Cervantes,96.19,Female
+Mendoza,Elena,92305,Public,Economics,Tagudin,85.31,Male
+Flores,Carlos,33535,Private,Economics,Narvacan,97.44,Female
+Santos,Miguel,45194,Public,Sociology,Baguio,94.56,Male
+Cruz,Carlos,68249,Private,Psychology,Cervantes,91.73,Female
+Garcia,Carlos,55637,Public,Literature,Santa,91.69,Female
+Garcia,Jose,41245,Private,Accountancy,Cervantes,90.51,Male
+Cruz,Elena,81885,Public,Engineering,San Fernando,95.08,Female
+Torres,Jose,62342,Private,History,Laoag,97.03,Female
+Flores,Juan,58800,Public,Computer Science,Baguio,94.38,Male
+Rivera,Rosa,71608,Private,Sociology,Vigan,91.38,Female
+Cruz,Rosa,93513,Public,Accountancy,Cervantes,97.18,Female
+Reyes,Juan,56976,Private,Biology,Candon,85.97,Female
+Rivera,Elena,34895,Public,Literature,Batac,96.02,Male
+Lopez,Maria,91452,Private,Computer Science,San Fernando,92.24,Male
+Mendoza,Juan,48603,Public,Sociology,Laoag,96.17,Male
+Flores,Carlos,78724,Private,Economics,Baguio,92.16,Male
+Mendoza,Jose,52966,Public,Economics,Vigan,91.73,Male
+Rivera,Jose,64724,Private,Engineering,Candon,96.88,Male
+Gonzales,Miguel,89790,Public,Finance,Batac,90.99,Male
+Gonzales,Ana,65994,Private,Engineering,Baguio,89.16,Male
+Cruz,Jose,49618,Public,History,Candon,87.7,Male
+Gonzales,Elena,75785,Private,History,Laoag,87.71,Male
+Gonzales,Miguel,52534,Public,Biology,Tagudin,86.7,Male
+Flores,Rosa,83726,Private,Biology,Tagudin,86.7,Female
+Garcia,Maria,64678,Public,History,Batac,94.56,Female
+Rivera,Juan,94690,Private,Sociology,Vigan,91.46,Female
+Mendoza,Juan,68603,Public,Psychology,Cervantes,89.94,Male
+Mendoza,Elena,40100,Private,History,Tagudin,97.71,Male
+Rivera,Pedro,67934,Public,Finance,Laoag,94.81,Female
+Torres,Maria,59971,Private,Biology,Vigan,87.68,Female
+Torres,Ana,49943,Public,Psychology,Vigan,93.65,Male
+Flores,Pedro,83966,Private,Engineering,San Fernando,86.38,Female
+Reyes,Jose,67664,Public,Psychology,Candon,98.88,Male
+Mendoza,Jose,48939,Private,Engineering,Vigan,96.05,Female
+Mendoza,Rosa,78124,Public,Economics,Batac,97.56,Male
+Reyes,Miguel,72208,Private,Psychology,Candon,92.01,Female
+Lopez,Maria,43887,Public,Engineering,Baguio,96.92,Female
+Gonzales,Elena,32582,Private,Economics,Cervantes,93.91,Female
+Santos,Juan,81969,Public,Literature,Vigan,90.61,Male
+Flores,Luisa,66688,Private,Accountancy,Batac,97.29,Female
+Gonzales,Pedro,90498,Public,Literature,Narvacan,89.55,Male
+Cruz,Elena,72000,Private,Finance,Baguio,85.22,Female
+Torres,Ana,71284,Public,Engineering,Tagudin,86.48,Male
+Santos,Pedro,31381,Private,Computer Science,Vigan,95.22,Male
+Rivera,Maria,99465,Public,Computer Science,Narvacan,93,Male
+Garcia,Jose,84627,Private,Biology,Baguio,88.63,Female
+Reyes,Elena,73970,Public,Biology,Tagudin,93.77,Female
+Reyes,Juan,40516,Private,Biology,Tagudin,95.25,Female
+Mendoza,Maria,54283,Public,Computer Science,Santa,85.5,Female
+Gonzales,Carlos,99694,Private,Sociology,Narvacan,99.05,Female
+Reyes,Elena,99282,Public,Accountancy,Santa,92.48,Female
+Cruz,Carlos,90160,Private,Psychology,Tagudin,98.26,Male
+Mendoza,Jose,77337,Public,Literature,Candon,88.95,Male
+Flores,Ana,62572,Private,Biology,Candon,99.54,Female
+Gonzales,Rosa,62497,Public,Accountancy,Laoag,91.94,Female
+Gonzales,Luisa,35935,Private,Accountancy,Narvacan,98.59,Female
+Garcia,Miguel,75135,Public,Engineering,San Fernando,93.03,Male
+Cruz,Luisa,73183,Private,Economics,Cervantes,88.16,Male
+Garcia,Ana,68300,Public,History,Tagudin,91.22,Male
+Garcia,Rosa,58487,Private,Psychology,Vigan,99.77,Male
+Flores,Elena,92720,Public,Finance,Narvacan,92.5,Female
+Mendoza,Miguel,35881,Private,Literature,Vigan,90.05,Female
+Santos,Juan,64237,Public,Sociology,Narvacan,93.53,Female
+Cruz,Miguel,65233,Private,Biology,Santa,87.66,Female
+Torres,Maria,51848,Public,Finance,Laoag,88.88,Male
+Mendoza,Luisa,91184,Private,Accountancy,Narvacan,97.96,Male
+Reyes,Jose,99473,Public,Engineering,Vigan,92.37,Female
+Mendoza,Pedro,80703,Private,Finance,Cervantes,88.87,Female
+Gonzales,Miguel,40964,Public,Economics,San Fernando,89.97,Male
+Santos,Miguel,92622,Private,Economics,Tagudin,88.24,Female
+Gonzales,Maria,87715,Public,Computer Science,Baguio,86.53,Male
+Santos,Jose,85535,Private,Economics,Narvacan,99.56,Female
+Mendoza,Luisa,31095,Public,Literature,Narvacan,90.37,Female
+Cruz,Maria,51717,Private,History,Candon,97.09,Female
+Torres,Carlos,73515,Public,Literature,Batac,99.01,Male
+Santos,Miguel,94175,Private,Economics,Baguio,93.22,Male
+Rivera,Rosa,59788,Public,Accountancy,Santa,89.97,Female
+Reyes,Pedro,35571,Private,Biology,Tagudin,94.59,Female
+Mendoza,Carlos,81938,Public,Finance,Candon,91,Female
+Flores,Luisa,72470,Private,History,Vigan,91.84,Male
+Rivera,Jose,92383,Public,Psychology,Santa,90.85,Female
+Cruz,Miguel,59712,Private,Economics,Baguio,85.31,Male
+Rivera,Rosa,55722,Public,Sociology,Santa,92.07,Female
+Cruz,Ana,35269,Private,History,Candon,97.3,Female
+Reyes,Jose,53350,Public,Psychology,Vigan,97.67,Male
+Rivera,Pedro,85823,Private,Economics,Candon,99.72,Female
+Cruz,Miguel,71845,Public,Economics,Laoag,91.23,Male
+Gonzales,Ana,34825,Private,Computer Science,Narvacan,85.86,Female
+Rivera,Pedro,34350,Public,Biology,Candon,93.06,Male
+Rivera,Rosa,67858,Private,Literature,Laoag,85.22,Female
+Rivera,Juan,86858,Public,Literature,Cervantes,89.22,Female
+Rivera,Luisa,39880,Private,Psychology,Batac,86.21,Male
+Garcia,Elena,65454,Public,Psychology,Santa,90.42,Female
+Mendoza,Maria,94753,Private,Biology,Batac,91.21,Female
+Santos,Juan,78092,Public,Biology,Cervantes,95.81,Male
+Cruz,Luisa,33310,Private,Sociology,Cervantes,99.54,Female
+Reyes,Luisa,97404,Public,Biology,Santa,99.68,Male
+Rivera,Pedro,97205,Private,Literature,Cervantes,97.34,Female
+Lopez,Pedro,76843,Public,Accountancy,San Fernando,96.55,Male
+Reyes,Jose,47431,Private,Accountancy,Tagudin,88.2,Female
+Lopez,Jose,58454,Public,Biology,Cervantes,94.16,Female
+Mendoza,Carlos,78890,Private,Engineering,Tagudin,94.42,Male
+Lopez,Elena,30492,Public,Accountancy,Candon,86.82,Female
+Santos,Rosa,39965,Private,Engineering,Laoag,95.48,Male
+Gonzales,Pedro,30123,Public,Literature,Laoag,93.05,Female
+Gonzales,Miguel,82948,Private,Sociology,San Fernando,95.97,Female
+Flores,Maria,73463,Public,Biology,Baguio,98.76,Female
+Mendoza,Elena,66281,Private,Sociology,Vigan,86.38,Female
+Torres,Carlos,63860,Public,Economics,Baguio,93.97,Female
+Santos,Juan,89706,Private,Psychology,Tagudin,89.59,Female
+Santos,Ana,41217,Public,Economics,Cervantes,96.32,Female
+Santos,Pedro,42785,Private,Accountancy,Vigan,96.04,Female
+Garcia,Ana,97361,Public,Psychology,San Fernando,98.34,Female
+Torres,Maria,84004,Private,Computer Science,Vigan,91.97,Male
+Mendoza,Ana,72290,Public,Biology,Narvacan,91.76,Female
+Cruz,Jose,92038,Private,Psychology,Vigan,89.39,Female
+Gonzales,Miguel,77164,Public,Computer Science,Batac,93.45,Male
+Cruz,Jose,59974,Private,Biology,Baguio,90.67,Female
+Garcia,Pedro,40998,Public,History,Cervantes,98.58,Male
+Flores,Rosa,56306,Private,History,Cervantes,86.57,Female
+Rivera,Luisa,74387,Public,Psychology,Baguio,93.63,Male
+Reyes,Elena,30445,Private,Literature,Tagudin,96.34,Male
+Rivera,Pedro,78029,Public,Biology,Vigan,95.84,Male
+Lopez,Rosa,47634,Private,Sociology,Narvacan,89.21,Male
+Santos,Carlos,59184,Public,Engineering,Narvacan,85.01,Male
+Santos,Juan,94552,Private,History,Narvacan,92.61,Female
+Flores,Elena,48388,Public,Finance,Batac,86.48,Female
+Garcia,Rosa,34773,Private,History,Narvacan,91.81,Male
+Mendoza,Luisa,78854,Public,Accountancy,Laoag,98.77,Female
+Rivera,Jose,90386,Private,Finance,Narvacan,94.79,Female
+Flores,Luisa,51969,Public,Economics,Cervantes,96.52,Female
+Flores,Luisa,74484,Private,Finance,Vigan,93.58,Male
+Rivera,Carlos,38301,Public,Literature,Tagudin,95.65,Female
+Rivera,Carlos,43325,Private,Literature,Candon,86.65,Male
+Mendoza,Pedro,43349,Public,Finance,Narvacan,93.54,Female
+Cruz,Miguel,73081,Private,Psychology,Vigan,87.85,Female
+Santos,Jose,89954,Public,Economics,Laoag,90,Female
+Torres,Ana,57244,Private,History,Cervantes,96.95,Female
+Cruz,Rosa,78767,Public,Computer Science,Tagudin,95.22,Female
+Rivera,Jose,38742,Private,History,Cervantes,91.63,Male
+Garcia,Elena,67486,Public,History,Candon,99.45,Male
+Garcia,Elena,34378,Private,Finance,Laoag,86.06,Female
+Flores,Miguel,49460,Public,Biology,Vigan,87.54,Female
+Rivera,Miguel,44423,Private,History,Laoag,94.17,Female
+Lopez,Juan,63742,Public,Biology,Vigan,85,Female
+Santos,Miguel,52622,Private,Finance,Candon,86.33,Female
+Lopez,Carlos,59166,Public,Engineering,Laoag,97.27,Female
+Torres,Elena,64650,Private,Engineering,Tagudin,98.25,Male
+Reyes,Luisa,53126,Public,Sociology,Cervantes,85.13,Female
+Rivera,Rosa,67568,Private,Biology,Baguio,86.49,Female
+Gonzales,Elena,59155,Public,Sociology,Tagudin,98.35,Female
+Torres,Maria,43936,Private,Accountancy,Santa,99.8,Female
+Garcia,Luisa,59847,Public,Economics,San Fernando,85.02,Male
+Mendoza,Pedro,86062,Private,Engineering,Batac,98.36,Female
+Lopez,Ana,38481,Public,Psychology,Baguio,88.16,Female
+Flores,Pedro,37481,Private,Accountancy,Narvacan,89.14,Male
+Rivera,Luisa,31541,Public,Engineering,Cervantes,87.74,Male
+Rivera,Luisa,54220,Private,Computer Science,Candon,91.95,Male
+Flores,Elena,99683,Public,Psychology,Santa,94.19,Male
+Torres,Juan,81389,Private,Sociology,Baguio,93.72,Male
+Mendoza,Rosa,93617,Public,Sociology,Narvacan,92.89,Male
+Garcia,Rosa,51216,Private,Economics,Tagudin,92.94,Female
+Flores,Maria,78090,Public,Biology,Laoag,89.13,Female
+Mendoza,Ana,79553,Private,Engineering,Cervantes,96.28,Female
+Flores,Miguel,59886,Public,Psychology,Tagudin,88.9,Male
+Garcia,Rosa,72079,Private,Literature,Batac,95.58,Female
+Lopez,Maria,81403,Public,Psychology,Narvacan,89.61,Male
+Torres,Rosa,51620,Private,Literature,Candon,97.37,Male
+Reyes,Luisa,49668,Public,History,Laoag,86.9,Female
+Torres,Miguel,88854,Private,Sociology,Candon,94.97,Male
+Torres,Carlos,91590,Public,Engineering,Cervantes,94.82,Female
+Cruz,Rosa,40624,Private,Sociology,Batac,99.44,Male
