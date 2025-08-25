@@ -97,3 +97,4 @@ def get_common_program_enrolled():
 @app.get("/cluster-student-profile")
 def get_clustered_student_profile():
     return cluster_student_profile(df)
+
