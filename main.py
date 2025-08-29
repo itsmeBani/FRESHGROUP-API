@@ -3,14 +3,17 @@
 
 import asyncio
 import threading
+from typing import List
+
 from fastapi import FastAPI
+from pydantic import BaseModel
 from starlette.middleware.cors import CORSMiddleware
 from supabase import acreate_client, AsyncClient
 
 from cluster import clustered_data_visualization, elbow_method, clustered_family_income, common_program_enrolled, \
     cluster_student_profile
-
-
+from exportExcel import export_data
+from models import StudentInterface
 
 app = FastAPI()
 
@@ -98,3 +101,6 @@ def get_common_program_enrolled():
 def get_clustered_student_profile():
     return cluster_student_profile(df)
 
+@app.post("/export-data")
+def export_student_data(list_of_students:List[StudentInterface]):
+    return export_data(list_of_students)
